@@ -1,0 +1,2496 @@
+﻿Sasha’s personal content
+
+
+Hi everyone,
+
+
+Great pleasure to be here, and thank you to James and the team who adapted quickly and made this conference happen, regardless of everything going on around us.
+
+
+The event companies like the App Promotion Summit are just one of examples of severely affected businesses.
+
+
+Transport. Retail. HORECA. Sports. Real estate. A list of companies waiting out the storm to come back is long.
+
+
+Other companies are experiencing unprecedented growth. We jealously look at them. 
+
+
+It’s hard to accept though that it is not healthy growth as few can straighten their operations to cope with a demand that jumped up overnight. Many of them fail to do it.
+
+
+A long-term threat is an economic recession that will inevitably decrease overall consumer spend and lower user lifetime value.
+
+
+Either you’re washed out or riding a wave now, all app businesses are challenged.
+
+
+And I know. I work at Skyscanner. In one of the most affected industries - travel.
+
+
+So if you’re listening to me, and you opened today your analytics dashboard and saw a number of users dropped miserably. Or if you are worrying that your company will fail under high demand and won’t be able to serve all users.
+
+
+You should know, I do experience your pain, we’re in this together.
+
+
+So originally, my talk was about Skyscanner rebranding, transformation on the App Store and Play Store, and what our 6-months results are.
+
+
+Apparently, now it doesn’t matter.
+
+
+The world has changed.
+
+
+And results that I was proud of just 2 months ago, do not serve us in a current reality.
+
+
+So instead, I will talk today about what affected app companies can do in this uncertain period.
+
+
+When we cannot invest proactively in paid advertising. When we cannot rely on app stores promotion. When we cannot make people want to use our product. When uncertainty is the only certain thing in marketing now.
+
+
+So today -- we will talk about three simple things we CAN do:
+
+
+Practicing empathy.
+
+
+Doing ruthless revaluation.
+
+
+And investing in sustainability, not exponential growth.
+
+
+Please bear with me. I hope I will be able to make it less of a conference and education talk and more of a real talk. Let’s see how it goes.
+
+
+
+
+Practicing empathy
+
+
+It’s not only about us, app businesses.
+
+
+It’s about our customers who are impacted.
+
+
+Millions of people who cannot travel, who may be rethinking and rearranging travel plans – or cancelling them altogether.
+
+
+Or thousands of people who stuck at home in isolation and cannot order food due to unprecedented demand.
+
+
+Or people who need to combine working from home with juggling parental responsibilities.
+
+
+Or people who cannot go home to their family because they’re fighting for the lives of others.
+
+
+Or people who live in a small studio, and cannot go to the gym any longer.
+
+
+Or people who’ve lost their jobs, or are about to lose, and who will need to ruthlessly prioritise their expenses over the next months.
+
+
+It’s not about us, businesses.
+
+
+Either we’re going up or down right now.
+
+
+It’s about people.
+
+
+It’s about us, people.
+
+
+The quote I found a couple of weeks ago: “This whole saga is really highlighting which businesses give a damn about people versus which don’t, purely in their approach to customer issues”.
+
+
+This period is a litmus paper. We, businesses, are defined by our choices.
+
+
+During these times, strong brands get even stronger and companies with weak values start showing off their true faces.
+
+
+Friends from Sensor Tower did a great research to understand where the growth of some categories is coming from.
+
+
+Surprisingly enough, the top 100 searched terms in the U.S. App Store in the wake of the COVID shutdowns did not contain any general queries relating to app types or services that might normally be associated with a pandemic or shelter-in-place orders.
+
+
+Most consumers were coming to the App Store with a clear intent to download specific brands.
+
+
+Their trusted app brands that they’ve known before.
+
+
+Same is seen on the report of AppTweak.
+
+
+It’s not the whole business apps category that went up. It’s Zoom and Hangouts that boomed.
+
+
+It’s not the whole food delivery category that tripled in size. It’s mobile grocery shopping, and very specific companies - Tesco, Waitrose and Morrisons.
+
+
+It’s not all fitness apps that experience hundreds of thousands of installs. It’s Nike who does.
+
+
+Strong brands are getting stronger. This is a time for them.
+
+
+And they were investing a lot to make sure regardless of what’s happening, users are searching for THEM.
+
+
+This is time for our companies to show up as brands who care.
+
+
+Not brands who push people to buy harder and more. Or teach people to do it. “Three premium features you can use to find your anxiety”-style.
+
+
+But brands who say: “We know you’re prioritising expenses, and we give you free access until it’s all over”. - Nike Training Club
+
+
+Brands who say: “We want to serve you, but we can not. We won’t be accepting orders until we can commit you’ll get what you need. On time.” - Gousto
+
+
+Brands who say: “You need to concentrate, but your kids won’t stop running around for a second. Get our game for them for free, they’ll love it.” - Monument Valley
+
+
+Or even brands who say: “You are your safest sex partner. Stay at home.” - Pornhub
+
+
+Or “Our service doesn’t work for you now, and it’s okay. But we can use it to help people on the frontlines.” - Airbnb
+
+
+We at Skyscanner are saying: “Whether you’re looking for travel advice, the latest information or need to refund or exchange your travel, we’re here for you. And when this does pass, we can help you get back out into the world.”
+
+
+Video
+
+
+
+
+Ruthless reevaluation
+
+
+I truly believe this is a good period for smart companies.
+
+
+And since I consider Skyscanner a smart company, I truly believe this is a good period for Skyscanner.
+
+
+We cannot do app growth marketing as we used to. Nothing that worked before works for us now.
+
+
+We’ve got a unique opportunity to stop our giant engine, and rethink.
+
+
+You cannot do it in any other, normal circumstances - because competition, because it’s all running, because we’ve got systems in place. 
+
+
+And in the fight between urgent/important vs. non-urgent/important, the former always wins.
+
+
+And as we’ve got no urgent/important now, at Skyscanner, we can use this period to mature our app systems infrastructure and knowledge.
+
+
+Which means 4 things:
+
+
+1. Changing the way we collect and analyse data. Recalculating customer lifetime value and investing into determining high value user signals, which will be true, regardless of the external environment.
+
+
+2. Rethinking how and where we drive people to our app, as well as rethinking the whole value proposition of the app and its specific features.
+
+
+3. Understanding what people expect from brands like ours in times of extreme uncertainty. How our users expect us to show up. And providing it.
+
+
+4. Redetermining how people are going to use apps from our category in future, and how we can address future challenges in our app. 
+
+
+We can finally focus on non-urgent/important projects that can give us a competitive advantage when the world is ready to travel again.
+
+
+
+
+Investing in sustainability, not exponential growth
+
+
+I have a strong opinion that the average mobile app revenue numbers and growth benchmarks are the most misleading and dangerous ways to look at the industry. 
+
+
+Both figures are determined by the revenue and growth of top-of-the-category apps.
+
+
+It makes it very tempting for younger companies to shoot for the stars and invest just to hit numbers of big players.
+
+
+The unfaithful reality is the majority of apps do not make any significant money.
+
+
+You need to raise money again and again to keep growing, aiming at a break even that might - or as current reality shows - might not happen in some years.
+
+
+For non-profitable businesses that got used to growing their products aggressively neglecting long-term risks, it is - and will be - harder to raise more money for growth.
+
+
+And if they have no safety cushion, what would a plan be in this case? Would they cut spending, would you lay off people, cut salaries? Can their current investors back them through a downturn?
+
+
+If the crisis is going to last longer than a year, we’re likely to see previously bright stars of the app scene declared as bankrupt.
+
+
+Only few companies can truly afford not being profitable, and can live through a crisis like that. They normally have an exceptional vision and a big mission behind them. It’s not a case for most of the apps.
+
+
+So sustainability as a goal will be more important than aggressive growth as a goal.
+
+
+Skyscanner is a profitable company.
+
+
+It’s one of few companies that are equipped well enough to survive the current climate. And hopefully - become even stronger after it all passes.
+
+
+But even for us it’s extremely hard times.
+
+
+Airlines, some of our peer travel apps, are not that lucky and are forced to take very tough measures to stay afloat. In March, some declared bankruptcy.
+
+
+Becoming profitable and remaining profitable is your big advantage. Although the growth can be not that steep, the fall won’t be that rapid either.
+
+
+And eventually, you will be able to use the time of the crisis to support your customers, mature your company and develop new processes.
+
+
+
+
+Difference between Customer Data Platform, Behavioural Data Platform, Data Activation Platform, Reverse ETLs, Marketing Data Platform, Data Integration / Data Movement Platform, etc.
+
+
+These are platforms & tools responsible for:
+
+
+1. Collecting
+2. Storing
+3. Transforming
+4. Activating data
+
+
+Before we look into them,
+
+
+DATA LAKES (AWS, Google Cloud)
+Store any data (i.e. unstructured). You 𝙀xtract and 𝙇oad the data there, and then 𝙏ransform it when necessary (ELT process). Users are data engineers, architects, scientists.
+
+
+DATA WAREHOUSES (Google BigQuery, Amazon Redshift)
+Store structured data only. You 𝙀xtract and 𝙏ransform (clean, filter, structure) the data first, and only then will you 𝙇oad it (ETL process). Users are data analysts, scientists.
+
+
+There are hybrids between DL/DW, such as Snowflake and Databricks.
+
+
+Now, the challenge is that marketing and business teams are heavy users of data, but they can't access it there without the right skill set.
+
+
+Collections, transformations, integrations require engineering support. Direct integrations bypassing the existing data platform create alternative sources of truth.
+
+
+XXPs step in to help companies, if not solve, at least ease the problem.
+
+
+🕸 Customer DP
+All-in-one solutions can do everything from the list. They ingest data from mobile, web, warehouses; connect cross-platform identities; let business users create new data; distribute it to third parties and update the data house back.
+
+
+Vendors: mParticle, Segment
+
+
+You may not need all that a CDP has, or you might want more advanced stuff for one part. Then, you'll run into the idea of a 'Composable CDP' — a set of tools designed to tackle one area from the list, but do it well.
+
+
+📨 Behavioural DP
+Lets you capture behavioural data and clean, organise, and enrich it before loading it into your DW.
+
+
+Vendors: Snowplow
+
+
+📥 Data Integration or Data Movement Platforms (DIP & DMP)
+ELTs. Let you extract data from nearly any source and load it into your DL/DW.
+
+
+Vendors: Fivetran, Airbyte
+
+
+📊 Marketing DP
+ELTs and ETLs. Let you connect data, organise and share it for reporting and analytics purposes.
+
+
+Vendors: Funnel
+
+
+💡 Data Activation Platforms
+Reverse ETLs. They enable sending data from your DW to third-parties.
+
+
+Vendors: Census, Hightouch
+
+
+Though not entirely on point, I'd also include in the list Customer Engagement Platforms (like Braze, Iterable, MoEngage). Whilst their primary use case is crafting and sending communications to users, they can be set up to collect, transform, and pass data to other marketing platforms too.
+
+
+Companies may use none of these. 
+One. 
+Combination. 
+Some companies will have everything and use nothing.
+
+
+There's no 'right' or 'wrong' solution. Your choice will depend on, among other factors:
+
+
+→ Your existing data platform
+→ Who's leading growth (product, marketing, data, sales, etc.)
+→ Team and expertise
+→ Teams that need to access data
+→ Marketing ownership and vision
+
+
+► How Duolingo, Headspace, Lyft & others use Markov method for Growth
+
+
+Markov analysis predicts what might happen next based on the current situation. By figuring out states and the chances of a user moving between them, you can make a decision tree to find likely outcomes.
+
+
+The method is loved by its simplicity and intuitiveness. Often used by data teams as a foundation for marketing and growth modelling.
+
+
+At Depop, we used the Markov Chain-based model for Multi-Touch Attribution.
+
+
+This approach considers marketing touchpoints as states, calculates transition probabilities between them, and removes touchpoints individually to assess effects and precisely assign value to campaigns.
+
+
+About it: https://lnkd.in/e7nakQcD
+
+
+How other companies use it:
+
+
+🦉 Duolingo: GROWTH MODELLING
+
+
+Using a Markov model, run growth simulations and found that Current User Retention Rate has the biggest impact on DAU.
+
+
+Once they proved that adjusting CURR could move DAU, they rallied their teams around this metric, driving 4x DAU since then.
+
+
+More: https://lnkd.in/e3us4R42
+
+
+🧘‍♀️ Headspace: RECOMMENDED CONTENT
+
+
+Headspace used a Markov Chain-based model as a proof of concept for their Sequential Recommender, aiming to predict and deliver the ideal next content piece to users via push notifications.
+
+
+The baseline model showed 78.65% lift in content completed by dormant users, and they refined it further with more advanced models.
+
+
+More: https://lnkd.in/etJ5-9XX
+
+
+🥕 Instacart: FIRST STAB AT USER JOURNEY IMPROVEMENT
+
+
+Instacart used Markov Chain for initial search query correction. By examining five states and transitions on a way to checkout, they identified correct words or corrections.
+
+
+More: https://lnkd.in/eiYVVvGQ
+
+
+More & more sophisticated approaches:
+
+
+🚗 Lyft
+
+
+Employed the Markov Chain Monte Carlo method for ad budget distribution: https://lnkd.in/eFjC_B_U
+
+
+🛒 Walmart Global Tech
+
+
+Used Markov Chains to enhance their picking process: https://lnkd.in/e5FGP-iK
+
+
+🚛 Uber Freight
+
+
+Applies the Markov Decision Process to optimise shipping prices: https://lnkd.in/egQa5fiF
+
+
+And finally, a university case study on using the Markov method for sales forecasting: https://lnkd.in/eMCZyAPD
+
+
+Turning 'I'm on it' into a full-blown letter. WHAT AN EVIL! 😈
+
+
+Belinda wants to write "I'm on it," a clear message that would take just 1 second for another person to read and grasp. But then, she uses AI to turn it into a letter full of AI-generated excitement and gratitude.
+
+
+Clicks 'Send'.
+
+
+The email joins the pile of other emails in the thread, all sharing the same level of excitement and sincerity.
+
+
+One thing I've learned over ten years in my career (agree, not much, but still!) is that genuine, sincere, and concise communication matters.
+
+
+It builds trust and relationships.
+
+
+One of my leaders, whom I respect the most, would just say, 'Clear. Thank you.'
+
+
+And if I were to hear 'Great job' from this person, I would know it mattered.
+
+
+Excited letters generated by AI don't matter.
+
+
+There is so much more to AI than faking human emotions. I wish we use it when it's meaningful.
+
+
+Gathering all the context and documenting findings to make a decision takes me ages. People with a bias towards action often label it "paralysis by analysis". I used to want to change that, until I realised it's actually my superpower.
+
+
+I share this trait with Frank Gehry.
+
+
+Frank Gehry is an architect of the Guggenheim Museum in Bilbao who finished it in just 6 years and saved $3 million from the $100 million budget.
+
+
+There's so much to learn from his approach. Gehry insists on being accountable for the entire project, from the first sketch to the final coat of paint. He tries to grasp the why behind a project. Uses digital models to mimic the future building.
+
+
+But also, Mr. Gehry takes it slowly.
+
+
+He includes everyone in the project, seeking context and input. He identifies and documents every constraint and opportunity. He generates and bounces dozens of ideas off clients, with 99% ending up in the trash.
+
+
+Once an approach is chosen, he drafts a detailed and rigorous plan, making sure issues and constraints are known — or at least most of them.
+
+
+For the Guggenheim Museum, he spent 2 years planning and 4 years building. His team was right on schedule.
+
+
+In contrast, the Sydney Opera House began with a napkin sketch and turned into a 15-year project, 15 times over the original budget.
+
+
+Gehry's process may appear slow, but in the end, it's quicker. And cheaper, since planning and delivery costs are wildly asymmetric.
+
+
+I've used this approach to deliver a Multi-Touch Attribution Model and Customer Data Platform at Depop, App Marketing Automation and User Journeys at Skyscanner. I use it for Flo Health, DELLI, Imaguru, etc.
+
+
+It works, and I'm sticking with it — for now.
+
+
+Thank you, Mr. Gehry.
+
+
+I keep being inspired by you.
+
+
+Last week, an art buyer spent £7,000 in my non-profit side project, LELEKA ART, supporting 1,000 child artists from Ukraine with one transaction.
+
+
+And now our stats are...
+‣ 12,042 published artworks (16k received, can scale to 100k+) 
+‣ 3,915 artists
+‣ 2,339 artists with sales (about 60% coverage)
+‣ £22,099 in total revenue
+‣ £2,643.5 successfully withdrawn
+
+
+Proud of LELEKA, and proud of our artists. And we want MORE.
+
+
+But as volunteers, we have scarce resources, and our innovation is capped by our own knowledge, talent, and expertise.
+
+
+Because of that on the 25th of April, we will partner with The Present and Google Women Techmakers to gather in one room (IRL, in London!) the BEST minds in product, AI, marketing, and engineering and brainstorm together how LELEKA can go from £22,099 to £220,099.
+
+
+🤖💡 Imagine AI, Galleries, and More!
+
+
+At the hackathon, we really want people to think out-of-the-box. Explore AI, collaboration with galleries and auction houses, VR universe or creating a platform for discovering hidden gems, let's consider all possibilities.
+
+
+Can/should you join? Oh yes, certainly. Get your £5 ticket here: https://lnkd.in/eqXwcWta
+
+
+You will network with the best professionals in London's tech industry who share your values, and make a meaningful impact on at least 3,915 children.
+
+
+I am incredibly pumped about this event.
+
+
+The people there.
+
+
+The level of ideas we will generate, together.
+
+
+See you on the 25th of April!
+
+
+//
+
+
+P.S. Dear LELEKA team, my dear fellow volunteers, see what level of trust we were able to build. We are supported by the best companies and talents. You are incredible, and I am so proud of you.
+
+
+Silicon Valley Bank and Game Theory
+
+
+If you didn't see – SVB, which worked with half of the local tech startups and held $198 billion in deposits, collapsed on Friday.
+
+
+Money was frozen, and finger-pointing began. VCs have been accused of urging companies to withdraw money from SVB, and founders for following that advice.
+
+
+Experts say that the collapse could have been 'entirely avoidable' if depositors had left their money in the bank.
+
+
+But there’s an explanation why they didn’t.
+
+
+Game Theory.
+
+
+Games happen all the time.
+
+
+A game is any situation where a player (individual, company, bank, state) wants to achieve the best outcome for themselves and needs to anticipate and respond to others' actions for it.
+
+
+Logically, the easiest games are those with sequential actions and complete context, known as perfect information games.
+
+
+Here, players can work backward from the best outcome by anticipating others' choices along the way, like a path through a tree's branches.
+
+
+Perfect information games work in theory, but not much in practice.
+
+
+Its key assumptions are:
+
+
+1. Players are economically rational.
+2. They won't make a mistake.
+3. They won't have a secret agenda.
+
+
+Eh.
+
+
+In real life, most games are games of imperfect information.
+
+
+Players move simultaneously. They do not have visibility into the context and decisions of each other. It's likely they won't know where they are in the game at all: am I at node 4, and everything's fine, or at node 3, and I need to cut and run?! (see image)
+
+
+Not having access to objective probabilities, players start relying on their beliefs, subjective estimations or perceptions of probabilities.
+
+
+Moreover, without trust and a long history of going through the SAME SITUATIONS together, players default to believing that others will make a mistake.
+
+
+Now – getting back to SVB.
+
+
+There's no information, no joint situations in the past. There's no trust as there's no open communication line. There are high levels of uncertainty, in general. Peer banks go into voluntary liquidation.
+
+
+All of this is observed by a close-knit community of people who happen to be clients of the same bank.
+
+
+Rumours that a bank 'has problems' were not a flamethrower. They were simply a match that was dropped in a pond of gasoline.
+
+
+This game has been played now and will replicate itself again. And again.
+
+
+Maybe with a different setting and scale.
+
+
+Last month, Duolingo unveiled a case study on how their Data Science team elegantly introduced a new metric to the company — Current User Retention Rate.
+
+
+CURR transformed the business and catalysed Daily Active Users growth.
+
+
+4x since 2019 to be exact.
+
+
+There's so much to learn from the story. For example, using Markov Chain for growth modelling.
+
+
+However, most importantly, there is a straightforward framework on how to bring major change to your company, which is:
+
+
+➜ Understand organisational pain
+
+
+In 2018, Duolingo's core metric, DAU, was stagnating. No experiments the team was running were able to give significant impact.
+
+
+➜ Build trust
+
+
+To change that, Duolingo's Data Science team dismantled the DAU monolith to pieces using a Markov Model.
+
+
+They classified users into mutually exclusive activity states (New, Current, At risk, Resurrected, etc.) and monitored the rates of transition between these states.
+
+
+They used historical data, and ran growth simulations.
+
+
+By pulling each lever one by one, they discovered that increasing the Current User Retention Rate (CURR) by 2% MoM had the greatest impact on DAU, rather than resurrecting users or ramping up user acquisition.
+
+
+➜ Commit and prove
+
+
+They took full accountability for the next steps and they staffed a small team to run A/B tests to see whether:
+
+
+1) CURR is a metric they can move, and 
+2) moving CURR actually moves DAU.
+
+
+They succeeded.
+
+
+➜ Transform
+
+
+Once the existing problem was deconstructed by the Growth Model, the solution was proven with the team, which showed exceptional accountability and trust. CURR was then rolled out to the whole business.
+
+
+And transformed it.
+
+
+It's incredibly common for us to jump straight into Transform or from Build Trust to Transform or start committing and proving something without solid ground.
+
+
+That's the reason why so many great researches keep being unacted or ideas are getting blocked.
+
+
+Next time you want to bring a game-changer to your business:
+
+
+↳ Understand organisational pain
+↳ Build trust
+↳ Commit and prove
+↳ Then, transform
+
+
+Is it an easy path? No. ❌
+
+
+Will you succeed? Yes. ✅
+
+
+I owe my personal and professional growth to six incredible women.
+
+
+My mom, of course
+My role model, a self-made professional in finance who grew from an Accountant to a Financial Director with nothing but her resilience, discipline, and focus.
+
+
+Emily Grossman
+My manager at Skyscanner and then Depop. Helped me transition from a generalist to a specialist. She saw both my best and worst selves. Taught me 90% of what I know (without giving a single prescriptive advice!), and gave me all the forums and audiences to show up.
+
+
+Aurélie Genet
+My peer and coach, helped me define 'Sasha', learn how to earn credibility, and open doors for myself. Thanks to Aurélie, I was able to speak at events and develop lasting professional relationships.
+
+
+Olga Andrienko
+My mentor, helped me find my voice and speak openly about my successes, experience, expertise, and knowledge.
+
+
+Nastia Khamiankova and Tania Marinich
+My friends who continuously gave me opportunities, from referring me for the IVLP program to supporting me in organising events at Imaguru.
+
+
+I am grateful and privileged to have received this support.
+
+
+It has made all the difference.
+
+
+As I continue to grow, my commitment today is to support other women in the same way my mom, Emily, Aurélie, Olga, Nastia, and Tania supported me.
+
+
+Looking for opinions: how do you plan to use new App Store benchmarks, and what SHOULD / SHOULD NOT they be used for?
+
+
+5 years ago at Splitmetrics, we analysed 60 million users and produced a report with app benchmarks.
+
+
+I'm still very much proud of it.
+
+
+But I'm not sure if this info was useful for understanding YOUR app performance.
+
+
+Are benchmarks just feel-good or feel-bad vanity metrics?
+
+
+Or are they valuable?
+
+
+And if they are, how can they be used to impact metrics like conversion, retention, and crashes?
+
+
+These are complex metrics that involve multiple teams and strategies: acquisition, funnel, on-boarding comms, product, etc.
+
+
+Resolving issues (if there are any!) often requires lots of cross-functional collaboration and exec decisions. But the audience of benchmarks seems to be champions, specialists, managers and senior managers. They will start banging the drum for solutions, but ultimately will get blocked.
+
+
+Can you wear both MARKETING OPERATIONS and MARKETING TECHNOLOGY hats?
+
+
+I focus just on Marketing Technology.
+
+
+In my humble opinion, Marketing Ops and Marketing Tech are fundamentally different roles with different focuses and responsibilities, and require different skill sets and strengths.
+
+
+▶ MARKETING OPERATIONS
+
+
+↳ generalists with excellent coordination, communication, and leadership skills;
+↳ oversee and coordinate marketing, and align marketing goals with cross-functional teams to deliver initiatives.
+
+
+While it's useful for Marketing Ops to have some expertise in MarTech, the depth is not essential.
+
+
+▶ MARKETING TECHNOLOGY // or Digital PMs
+
+
+↳ subject matter experts with in-depth knowledge of the tech stack and data;
+↳ they keep up with the latest technologies, and work closely with engineering teams to develop a roadmap and ensure successful delivery of innovation.
+
+
+While I have strong soft skills, I would still partner with Ops peers, who will take coordination off my plate.
+
+
+It is however not uncommon for people to wear both hats.
+
+
+🤔 Why?
+
+
+There are just different levels of MarTech and, quite frankly, different needs within companies.
+
+
+Some companies need dashboards in Looker and ad hoc support to set up pixels and SDKs
+→ this is #MarTech, and probably can be covered by Ops
+
+
+Other companies need to replace user-level data with privacy-preserving technologies
+→ this is also #MarTech, but require hands-on collaboration with other teams, for which Ops may not have depth of knowledge and capacity
+
+
+As a company's needs in MarTech become *more complex and specialised*, the demand for subject matter experts in Marketing Technology increases, making it necessary to differentiate between these two specialisations.
+
+
+Morale:
+Recognise when MarTech expertise is needed instead of stretching Ops beyond their capabilities.
+
+
+Yesterday, Google started rolling out the Beta version of the Privacy Sandbox on Android.
+
+
+The Privacy Sandbox APIs will replace Advertising IDs, which were previously the cornerstone of personalized ads and ad measurement.
+
+
+And will be sunset by 2024.
+
+
+GONE.
+
+
+In their place, we will have:
+↳ Topics API
+↳ FLEDGE (Custom Audience & Ad Selection API)
+↳ Attribution Reporting API
+↳ SDK Runtime
+
+
+It took me a month to work through Google's documentation and fully understand how each of the 4 initiatives work.
+
+
+And most importantly, grasp the PHILOSOPHY behind them. WHY these technologies were created.
+
+
+When I got there eventually:
+Oh dear! Oh dear! It's impressive.
+
+
+I've distilled all info into 14 slides that will hopefully explain complex concepts in simple words and charts.
+
+
+// Do you like the comics with cats generated by Midjourney, btw? I'm obsessed with it.
+
+
+The more I study the Privacy Sandbox for Android, the prouder I am of the Probabilistic and Aggregated Attribution bet we made at Depop 2 years ago with brilliant Ekaterina, David, Musab, Tope, Alice, Greg and the team.
+
+
+It was a smart move, and so ahead of the industry.
+
+
+Google is sunsetting Google Advertising IDs by 2024.
+
+
+The Attribution Reporting API will step in to fill the void.
+
+
+↳ Ad sellers will provide the API with information on ad engagement.
+↳ Ad buyers will provide the API with information on conversions.
+↳ AR API will collect and connect these, on device.
+
+
+We will receive only aggregated reports on the performance of the ads from the user's device, which will not contain any information linked to a specific user.
+
+
+Love it.
+
+
+My inner nerd is at it again. 'Accurate' and 'precise' are not interchangeable, despite marketing using them as such.
+
+
+Accuracy refers to how close you are to the correct answer, while precision refers to how consistent your answers are, regardless of how far or close they are to the correct answer.
+
+
+For reporting (i.e. revenue attribution), you want something 'accurate'.
+
+
+For understanding the trend (i.e. purchase propensity), you want something 'precise'.
+
+
+p.s. I am guilty, of course.
+
+
+We talk about building businesses and writing code with ChatGPT.
+
+
+Here's a down-to-earth, but incredibly important use case.
+
+
+It helps non-native speakers and people with dyslexia.
+
+
+I'm a non-native speaker and I find ChatGPT a lifesaver for fixing my text's grammar, syntax, and word choice.
+
+
+Three years ago, I paid $86 and waited for 48 hours for a 12-slide deck proofread.
+
+
+I spent hours and hours polishing one email.
+
+
+You may say that it does not matter. But it does.
+
+
+This is a game changer for so many people.
+
+
+What I would tell myself five years ago about marketing technology (applies to any cross-functional work!).
+
+
+Listen.
+
+
+Marketing technology is not just about marketing and technology.
+
+
+It's about stakeholder management and bringing others on board with your story.
+
+
+- Setting up marketing technologies is not hard, but getting buy-in from partners and team members and getting adoption from end-users is.
+
+
+- 'Efficiency' cannot be meaningfully defined without regard to desires and preferences. MarTech empowers a great growth strategy, but it doesn't drive it on its own.
+
+
+- MarTech does not work in a silo. It requires a strong partnership with growth, product, and data platform teams. Make friends.
+
+
+- You will always be making trade-offs between quick hacks that lead to tech debt and long-term solutions that require time. Tech debt is not always bad, and sometimes it's necessary to buy time for a long-term solution.
+
+
+- There's never a 'right' or 'wrong' answer, don't look for it. Embrace ambiguity.
+
+
+FLEDGE for Android,
+
+
+I posted about Topics API last week, now here’s a summary of how FLEDGE works:
+
+
+FLEDGE allows you to run remarketing while keeping user signals and custom audience information on the device, eliminating the need for third-party data sharing.
+
+
+This means that if a user smashes their phone against the wall, the information that they ever abandoned a bag and should see an ad will die with the phone.
+
+
+The only information that COMES TO THE DEVICE is bidding logic, ad info, and decision logic on the ad placement seller side.
+
+
+The only information that LEAVES THE DEVICE is reporting, which is not connected to the user's identity.
+
+
+This eliminates the need for personal identifiers such as email addresses, and performance data such as purchase history to be shared between third-parties.
+
+
+This is so freaking cool.
+
+
+Marketing faces a common challenge.
+
+
+Technical stakeholders are asking to predict the outcome of marketing requests to prioritise work. → Complex calculations that marketing comes up with only lead to more questions and challenges.
+
+
+What do you do?
+
+
+Recently, I spoke with Alberto B. Sáez, my dear peer from Skyscanner who is now Marketing Director at Noom.
+
+
+He suggested that we look outside of marketing for solutions to this challenge.
+
+
+We look for answers in our stakeholders’ world.
+
+
+He compared it to the well-known yet not solved three-body problem in physics. It's difficult to predict the exact movements of three celestial bodies that are all affecting each other.
+
+
+Good news is physicists have methods to look at this problem: numerical simulations, perturbation methods, analytical methods, AI/machine learning… as well as approximation.
+
+
+Approximation methods are simplified models or assumptions to make predictions about the body's motion. They are, in particular, often favored for their simplicity.
+
+
+When using approximation methods, here are general rules used in physics:
+
+
+1. Keep it simple and avoid complicated methods.
+2. Be upfront about limitations and inaccuracies.
+3. Make sure the method fits the specific problem.
+4. Plan to test for accuracy and continuously improve and adjust.
+
+
+When coming up with a prediction next time,
+❌ instead of using complex calculations
+✅ provide a simple approximation, be ready to explain it and be transparent about its caveats
+
+
+This is the approach that will take less time from you and earn more trust from technical stakeholders.
+
+
+Simple.
+
+
+Recently, I attempted to put together a big piece explaining Google technologies that enable privacy-safe marketing for businesses.
+
+
+It should have been awesome!
+
+
+With all the technologies released in the past few years and currently being proposed, designed, and developed, explained in simple terms and with charts.
+
+
+Well, good luck.
+
+
+I fried my brain a bit, like an egg in a pan 🍳 , trying to figure them out and understand the reasons behind their development. So, I decided to take it easy and explore each technology and Google's philosophy behind their development gradually, step by step.
+
+
+So, here comes one piece of the puzzle: an explanation of the Google Topics API.
+
+
+This API will help app advertisers find and serve relevant, personalised ads to users without tracking them across apps from different companies. (Note: this is also applicable to the web, but I am focusing on the app here)
+
+
+Creating a space to learn from others is my ultimate growth hack.
+
+
+My favorite meetings at Depop were app growth and privacy catch ups.
+
+
+Monthly one-hour sessions brought together performance marketing, technology, and data folks from four companies: Etsy, Depop, Elo7, and Reverb.
+
+
+We shared pain points of implementing new tech, discussed successful experiments, and shared insights from vendors and partners. We also delved into how app tech works under the hood.
+
+
+What a blast of value it was!
+
+
+There's a lot going on in the privacy and measurement space, but there's only so much you can investigate, build, test, and measure on your own.
+
+
+I swear these meetings were like having a time-turner necklace, allowing me to be at four companies at once.
+
+
+It also provided a safe space to admit when we had no idea how something worked, without judgement. Sometimes it's the only thing you really need.
+
+
+There are a few things I truly miss in my solo consulting world, and this is one of them.
+
+
+This is also one of the reasons why I started posting here, openly sharing what I know and hoping to get invaluable insights from others.
+
+
+My advice:
+Build a guild to learn from your peers.
+It makes all the difference.
+
+
+Understanding Google’s Ad Tech philosophy
+
+
+Navigating the current marketing tech landscape isn't easy. It's not just the long list of marketing technologies that appeared in the last ten years that makes it confusing; it's also the fact that it's turning 180 degrees now. 
+
+
+Existing marketing technologies require user-level data and shared identifiers to measure and optimise communication for users. 
+
+
+If Lily abandoned a shopping bag, the shop will send her unique identifiers (say, an email) to Google to find Lily there and show her an ad with items she left in the bag. If Lily clicked on the ad and completed a purchase, you will use Lily’s unique identifier to connect the click and the purchase, and measure how much money you returned on the money you spent.
+
+Now, however, there is a demand from users to continue receiving great content but minimise the personal data shared between apps and websites from different companies. 
+
+
+This is an incredibly fascinating challenge, considering that previously the whole industry was based just on that – on sharing personal identifiable information of users between different companies.
+
+
+For some companies, this change means less confidence in their data (which is often unpleasant but survivable). For other companies, this shift poses an existential threat. For example, an e-commerce platform 1/3 of gross merchandise value of which depends on Shopping Ads on Google, and Google itself that derives 83% of its revenue from advertising, which depends on its clients' ability to measure return on investment and optimise spend.
+
+
+To address this change, Google is rethinking advertising and measurement standards and introducing a set of innovative technologies, such as Conversion Modelling, Google Analytics 4, and aggregated identifiers. 
+
+
+The goal of this piece is to understand these technologies and assess what your company can or should implement in the coming quarters to protect its spend. However, it would be too boring and counterproductive to just list Google's developments and describe them one by one. While you may understand what Privacy Sandbox is, you won't be able to see the whole picture and plan ahead. 
+
+
+Therefore, I'd like to suggest a slightly different approach. Instead of focusing on each technology separately, we can look at Google's principles and consider the sociological movement towards data protection. This perspective can help us clearly understand all the complex technologies and regulations in place without getting too bogged down in the details – those can be studied later.
+
+
+
+
+People and data
+
+
+It’s fair to say that not all companies were treating user data with required respect and care. 
+
+
+Every user has some sort of a digital profile that includes system ids, emails, names, phone numbers, gender, interests, behaviours across apps and websites, etc.. Unique identifiers are the same across all websites and apps, and a news website can use information about what a user did on a website that sells t-shirts and having a browser tab open with Star Wars to show them ads with Star Wars t-shirts.
+
+
+It may seem like a sophisticated technology, but it’s really just a matter of sharing identifiers unique for every user and data points associated with them. Sometimes, it can be as straightforward as a marketing manager downloading a .csv file with a list of email addresses and uploading it to a third-party platform to find users there and show them ads.
+
+
+We want our sensitive data (like our name, home address, phone number, and email) to be shared and handled in a secure way between people and companies, not just freely.
+
+
+The privacy movement isn't about getting rid of marketing activities or preventing companies from personalising our experience. It's about asking companies to handle our sensitive data in the most secure way, and outdated marketing technology which doesn’t fulfil this requirement, and is time to change.
+
+
+
+
+Google’s principles
+
+
+Every company has a mission and guiding principles that inform decisions made by the team. For example, Skyscanner's principle is to prioritise the travellers’ experience above all else, and to make it simple. This means that Skyscanner would never approach a product that would compromise the experience of their users for the benefit of the company or their partners, and the team will always look into ways to simplify the user journey or technology.
+
+
+I have never worked at Google (to be honest, I cannot remember from the top of my mind whether anyone from my network works there), but very similarly, Google also has a set of principles that guide the decisions of their people, including the team responsible for developing ad tech and privacy products.
+ 
+Google's mission is to make the world's information accessible and useful to everyone.
+
+
+Their broad privacy principles include respecting their users and their privacy, being clear about what data they collect and why, never selling personal information, making it easy for people to control their privacy, empowering people to review, move, or delete their data, and building strong security technologies into their products. They also strive to lead by example and advance online security for all.
+
+
+We can expect that whatever technologies Google develops, regardless of the use case, they will be aiming to make these technologies accessible, easy to adopt and understand. They will put privacy of users into the centre. They also know that millions of eyes are looking at them, and therefore they are aiming to set an example, and lead by it.
+
+
+To me, a company that is so vocal about privacy of users and that aims to lead by their example is very unlikely to go against the flow and introduce or tolerate practices that can compromise user privacy. For example, fingerprinting, which would be matching a set of parameters on different websites (such as an IP address, time, device type, etc.) to make a decision that user A and user B are in fact one user.
+
+
+The Google teams that are working on Ad Tech and Analytics platforms also have their own principles, a level down from company-wide mission and broad principles.
+
+
+The first principle is quality, which means providing to users as accurate data as possible. Accuracy refers to how close a measurement is to the true value.
+
+
+The next two principles are rigour and validation. Because of the first principle, the team says if they are not confident in the data they are about to show to a user, they will not show it. They are incentivised to work on more and more quality technologies to increase the accuracy of their measurement, and I assume they may also have data coverage (% of users or their campaigns that have data) as one of the key metrics they look at. They are in a constant process of validating their data by taking more data points and testing more hypotheses, and by doing so removing biases and refining their models.
+
+
+What they do not do though is using data provided by companies B, C, D to provide metrics to a company A. They believe that every company, as well as their targets, their campaigns, budgets, set ups are unique, and therefore they will not provide a one-size-fits-all solution, but rather they will apply their unique measurement to every company separately. Here comes the principle number four, uniqueness.
+
+
+The most important principle, and the one that is a reflection, a reminder of some sort of core company principles, is a user's privacy. As they are validating, improving, making their offerings more robust, they are looking to do it in a secure private way. Fingerprinting is still a no, whereas aggregated data is a yes.
+
+
+Finally, Google wants to make sure that the data they calculate is transparent, accessible, and easy for you to use and integrate with other platforms. They don't want to introduce a new solution that would require changes to your current data pipelines. The goal is to make it as easy as possible for you to integrate their data into your existing setup.
+
+
+To summarise the challenge, previously all companies, and Google is no exception, were using unique identifiers of their consumers (emails, for example) to connect consumer behaviours between apps and websites of different companies, and to personalise their advertising experience. 
+
+
+Before companies had access to all data. Then they were required to ask for user consent in Europe with GDPR, and roughly a half of users started saying no. Companies are required to provide an easy way for users to opt out in California. More country-level laws are in the works. Apple introduces Apple Transparency Tracking, and now companies cannot use IDFA or any shared identifiers of users without user consent, and public benchmark is 40% of users opt in, whereas from my experience, at larger companies the % of users who opt in does not exceed 20-30%.
+
+
+The access to the data for Google is shrinking, but their core principles remain the same. They still have strict standards for the data they show to users, and they won’t compromise on the data quality, and they will not attempt to cheat users to provide better data to their clients.
+
+
+In one sentence, Google tries to think about technologies that would allow them to provide data to advertisers at the same standard they were used in a world where there’s little or no user-level data.
+
+
+Let this challenge sink in, and we can look at all the technologies Google has in the works – Privacy Sandbox, Gbraid/Wbraid, Consent Mode, Conversion Modelling, etc. Seemingly standalone, they will come together now.
+
+
+
+
+Google’s ad tech and measurement technologies
+
+
+To make it a truly simple exercise and not go into too much detail, we can nominally split advertisement activity into:
+
+
+Showing ads to people the most interested in our ads
+
+
+We use unique identifiers for it such as GAID, IDFA, emails, names, phone numbers, etc. – anything that could help us match our user with a user on the other platform. 
+
+
+When an advertising platform is starting showing ads, they select a semi-random cohort of users that they believe might find our ads relevant. To give feedback to the ad platform on whether it is a hit or miss, we send information on whether a user with a specific id made the desired action on our platform. Technically, send a user id alongside conversion information. 
+
+
+An ad platform studies all users who made a conversion, finds similarities between people who engage and convert and people who do not, and optimises for the former, optimising away from the latter. 
+
+
+We could also give an insight to ad platforms by uploading lists of our own users to find similar people, exclude them if we do not want them to see ads, or just find them all together and show them our offer.
+
+
+Measuring the performance of our advertising activity
+
+
+Measuring results of advertising activity, we calculate return on ad spend. To be able to do that, we need to know how many clicks on our ads resulted in desired conversions and how much monetary value they brought.
+
+
+To connect clicks with conversions, we would once again use unique ids, which are shared between clicks and conversions, and set up rules on which conversions and value we attribute (i.e. revenue of purchases happening in the next 30 days). All conversions adhering to the rules will be counted as ‘net income’ in the ROAS formula.
+
+
+  
+
+
+
+If there are no unique user-level identifiers, we would not be able to send signals to Google, we would not be able to share audiences with Google, we would not be able to show relevant ads to users, and we would not be able to measure.
+
+
+  
+
+
+
+There are two core Google technologies that solve for the above: Privacy Sandbox, and Conversion Modelling.
+
+
+Privacy Sandbox is not a technology, but a set of technologies that improve user privacy and enable effective, personalised advertising experiences. It is still in works, 
+
+
+still in works, and its primary use case is providing users with the relevant content. Instead of requesting ads for a specific user, a website will be providing to Google information about their context – what their website is about, how the page looks like, what’s on the page, what was a previous page of a user, etc. Advertisers will be also incentivised to provide as much information about their ad as possible. Google will match these and return an ad that they believe is the most relevant to the user who is on the page.
+
+
+  
+
+
+
+
+
+I could argue that all other technologies support one main development, which is Conversion Modelling. 
+
+
+In 2021, 58% of Google's revenue came from Google Search Ads. 12.3% of revenue from Google network ads. 11.2% of revenue from Youtube ads. Google relies on their partners to be able to continue running advertising, and an ability of a given company to do paid growth directly connected with whether or not a company is able to measure return on their Ad Spend, and hit their ROAS targets.
+
+
+The fundamental risk of having less data about users is Google stops seeing users who convert. 100 of users click on an ad, and a half of them block tracking. Out of 50 of users who opt in, only 5 make a purchase. Out of users who opt out, 10 make a purchase, but they stay invisible to the ad platform. What a company sees in their dashboard is 100 clicks and 5 conversions, whereas in reality there were 15.
+
+
+To account for the missing 10, Google has developed Conversion Modelling. 
+
+
+Conversion modelling is the heart of Google’s philosophy.l
+
+
+What Google says with conversion modelling is – we know that going forward you will not have enough data to optimise and measure performance of your campaigns. Users have been already opting out of data usage (GDRP and CCPA), and they were opting out of device-level tracking (ATT and cookies). We get it, and trust us – it’s alright.
+
+
+Google goes even further and says – we want to completely remove third-party cookies, as we are confident that our machine learning is mature enough to understand and fill gaps. Going forward, you can do more with less data, or no data at all.
+
+
+Conversion modelling consists of two elements:
+1. Improving observability, which means getting as many data points as possible.
+2. When observable data is missing, Google is supplementing it with machine learning models.
+
+
+To describe it in simple words, when you launch a campaign, Google takes as much as possible out of tracking. Some users will have an ATT opt-in, and they will have IDFAs, cookies or other identifiers that will allow Google to match the conversion to an ad campaign. They will separate observable data from non-observed data. They assume that there is a portion of users who have not converted, but there are also users who converted, but did not allow to track this conversion. They will identify similarly behaving users and calculate the likelihood of user converting.
+
+
+They make sure it works by holding back a portion of observable data, and try to replace the portion with a model. Compare the model to the observed conversion portion, and calibrate for biases.
+
+
+For Google to be able to model conversions with a higher level of precision and accuracy, Google needs to get as many data points as possible – user-level, device-level, aggregated, identified and de-identified. These data points are then fed into Google’s ML model, which gives out modelled conversions.
+
+
+Conversions are modelled for each company separately (uniqueness principle). And therefore, every company is incentivised to provide as much data as possible to Google.
+
+
+Google archives more data for the Conversion Modelling with a number of existing technologies, and they will continue delivering more technologies that will help fill in the gap.
+
+
+First, Google rolls out Google Analytics 4 and Google Analytics 4 for Firebase. When you used the advertising features in the previous version of Google Analytics, you were placing cookies on users' browsers. These cookies were used to collect data about users' interests and demographics, which was then shared with third parties for the purpose of targeted advertising. By placing cookies on users' browsers, other companies that participated in Google's advertising network could also access the data that was collected through those cookies. This is because the cookies were placed at the browser level, rather than on a specific website. In Google Analytics 4 (GA4), the use of events rather than pageviews to create audiences gives you more control over the data that is used to create your audiences, and helps to protect the privacy of your users. In GA4, the data used to create audiences is not shared with third parties, so you can use GA4 to create targeted marketing campaigns without having to share personal data about your users with other companies. The data is only used for analytics and marketing within your own organization, and is not shared with anyone else.
+
+
+Google Analytics 4 (GA4) are a more flexible and granular way to track specific actions that users take on your website or app, compared to conversions in Google Analytics. In Google Analytics, conversions are defined as specific actions that you want users to take on your website, such as making a purchase, filling out a form, or subscribing to a newsletter. 
+
+
+When a user completes one of these actions, it is recorded as a conversion in Google Analytics. In GA4, events are used to track specific actions that users take on your website or app. An event is a specific action that a user takes, such as clicking a button, viewing a product, or adding an item to their shopping cart. When a user takes an action that you have configured as an event, that event is recorded in GA4. 
+
+
+Right now Google can safely remove third-party cookies, but the signals required to understand whether a user converts will stay.
+
+
+However, it doesn’t solve the problem for users who opt out of GDPR, or prevent tracking in any other way (on their iOS devices through ATT).
+
+
+For them, Google is willing to work with aggregated information.
+
+
+To model conversions better, Google requests publishers to pass them user-level signals (conversions associated with unique IDs), SKAdNetwork signals. Sending audiences for bid adjustments.
+
+
+More technologies that should allow Google to increase % of observable data are:
+
+
+
+
+
+
+
+
+  
+
+
+
+We see users converting despite deprecation of third-party cookies because of the first party data collected by GA4, GA4F, or sent directly from you or your customer data platform to Google Ads. This does not rely on third-party cookies, however, it is still a subject to users’ data usage consent. Therefore, you are able to see the events performed by users only if they opt into tracking. This is regulated by local law and every company’s privacy policy.
+
+
+  
+
+
+
+We are keen to remove ad clicks that we know did not end up in conversion. These are users who allowed tracking, but did not convert. Previously Google did not have straightforward access to this information. The cookie banner would have been set up as a JS or through the server, but Google would vaguely understand whether there’s consent based on the behaviour of their tracking tags. It is not good enough.
+
+
+Now Google introduces Consent Mode that offers advertisers to provide information on whether a concrete user has opted in or opted out.
+
+
+With implementing the Consent Mode, we are able to define ad clicks that haven’t ended up being conversions.
+
+
+  
+
+
+
+Some of the left users were redirected from a website to the app, and converted there. To be able to observe behaviour of these users, Google has introduced Web to App connect. It allows you to set up deeplinks between web and app, and connect data pipelines of these two. So, conversions that are happening in the app are attributed to you original web, or fair to say, platform-agnostic campaign.
+
+
+  
+
+
+
+There’s a bunch of ad interactions left that we cannot observe.
+
+
+  
+
+
+
+To be able to observe them, Google is applying technologies provided by their partners – such as SKAdNetwork by Apple, and introducing their own aggregated measurement.
+
+
+Google introduces on-device conversion measurement for iOS and Android apps. 
+
+
+We will require Firebase, which will be doing attribution on the user device based on the email.
+
+
+Google’s on-device conversion measurement improves the amount of observable conversions from your iOS App campaigns while keeping users’ personal data private.
+
+
+Users’ identifiable data is restricted to their device.
+
+
+On-device conversion measurement helps measure app installs and in-app actions from your iOS App campaigns while keeping user data private. On-device attribution connects a user to their user-provided email, for example, collected by your app’s sign-in experience through Google Analytics for Firebase (GA4F). Our on-device conversion approach protects a user's data by ensuring that no identifying user information is sent off the device in an identifiable way.
+
+
+This feature is only available through the Google Analytics for Firebase SDK. In order to use on-device conversion measurement, you’ll need to: Integrate with the Google Analytics for Firebase (GA4F) SDK (version 9.0.0 or higher required), and link your Google Analytics 4 account with your Google Ads account. Ensure your app can run on iOS 11 or higher. Create an app sign-in experience that collects user-provided emails.
+
+
+Google also introduces Gbraid (through App Conversion Tracking and Remarketing API and Google Ads API to upload offline click conversions into Google Ads)
+
+
+Offline Conversions Import - we are able to use gbraids for both iOS users who opt in and opt out of tracking. This will work for engagement and winback campaigns in Google Ads, where a user already has the app installed and has a gbraid in their link, which we can capture and record. This will not be helpful for GDPR (opt out means no measurement, incl. aggregated), and won’t work for app install campaigns.
+
+
+Based on this data, Google is able to model missing conversions. For example, Google is able to directly attribute 10 conversions to users who opt in, through both app and web, and is able to identify users who are being observed, but who haven’t converted.
+
+
+In web campaigns, we are developing the Attribution Reporting API to measure click-through and view-through conversions in privacy-preserving ways.
+
+
+
+
+// Why did Sasha always get lost when using deep links? Because they kept taking her on detours! © chatdpt
+
+
+Ha.
+
+
+Jokes aside, folks. Deferred deep links are a challenge that cannot always be solved simply through better integration.
+
+
+Prepared this simplified summary to save you hours of investigation when someone raises a deep link issue with you. 👇
+
+
+Deferred deep links guide users to a specific page of the app after they've installed and launched it.
+
+
+You may use them in influencer campaigns on TikTok or in website's install app banners.
+
+
+Sometimes they don't work - and *that's expected*.
+
+
+Mobile Measurement Platforms (MMPs) use device IDs and attributes (like IP addresses) to match a deep link when clicked and when the app is launched.
+
+
+If those IDs and attributes change or go missing, the deep link can't find its way, and it won't work.
+
+
+This can happen if a user uses a VPN or is an iCloud+ customer, for example. Not an edge case.
+
+
+If you want to fix it, here are a few things to consider:
+
+
+1. Weigh the pros and cons. Think about whether the value of working deep links for the majority of users outweighs the broken experience for other users. Is it something you're willing to tolerate?
+
+
+2. If the answer is no, consider using Branch's Native Links. These encourage users to save the path to their clipboard, so they can still land on the right page even if the link doesn't match.
+
+
+3. Apple's App Clips are another option. They're lightweight parts of the app that show users an in-app experience and encourage them to install later. This is recommended by AppsFlyer.
+
+
+4. You can also try using native app banners from Apple and Google.
+
+
+5. You can work with your Product team to define the best alternative path for users.
+
+
+And lastly, consider if the solution is actually a part of a BIGGER, MUCH BIGGER picture.
+
+
+What if deferred deep linking discussions are actually discussions about web and app parity, and adjustments that would make users receive an equally great experience on both web and app, and then install the app when they're ready.
+
+
+Something to think about.
+
+
+
+
+Content I read and can vouch for
+
+
+Composable CDP vs. Packaged CDP: An Unbiased Guide Explaining the Two Solutions In Detail
+It's time to talk about what makes a CDP a CDP
+  
+
+  
+
+ARPIT CHOUDHURY AND GLENN VANDERLINDEN
+MAR 16, 2023
+10
+Share
+Produced in collaboration with Glenn Vanderlinden (Co-founder of Human37), and originally published on the astorik learning hub, this guide is part one of the series titled CDP Beats.
+________________
+
+
+The CDP — such a freaking beast, isn’t it?
+I think it’s a little bit like Hydra in Greek mythology — the water monster that would grow two heads every time one of its heads would be chopped off.
+Every attempt to kill the CDP has made it stronger, has more people talking about it, and has more vendors claiming that they are, in fact, a CDP in disguise — the CDP is officially antifragile. 
+  
+
+CDP — The beast that keeps growing heads (Snake icon from Flaticon)
+I’ve personally been fascinated by the CDP. Over the last 3 years, I’ve spent a ridiculous amount of time writing about the CDP and keeping tabs on its evolution from packaged to composable. If you’ve followed the composable CDP vs packaged CDP chatter, you’ve surely heard both sides of the argument and don’t need another opinion piece explaining why one approach is better than the other. 
+I believe it’s time for an unbiased guide that offers a complete breakdown of the CDP into its components, which like Hydra’s heads, keep increasing in number. 
+This guide aims to help people make CDP buying decisions based on a clear understanding of the various components of a CDP, the purpose of each component, and which components are required to find the most efficient path to putting data to work before it becomes stale or unusable.
+The one thing that we won’t get into is cost because cost is very subjective. Most comparisons of the composable vs packaged approach focus on the licensing cost of the software, leaving aside other line items that need to be considered irrespective of the approach — people cost, opportunity cost (of a slow or poor implementation), or the cost of data decay.
+I’d like to begin by getting definitions out of the way.
+CDP Definition
+The rise of the data warehouse led to the emergence of reverse ETL in late 2020, followed by the notion that a combination of these two technologies has made it viable for companies to build — or more accurately, assemble — a Customer Data Platform on top of the data warehouse. 
+This is how the idea of a composable CDP emerged in early 2021 and gained momentum in 2022. 
+But what exactly is a composable CDP? Is it an architecture? Is it an approach? Is it a set of integrated tools? Or is it a productized solution like a packaged CDP?
+If you Google “Composable CDP”, you’ll find that none of the articles offers a concise definition of this term. 
+Let’s change that.
+Firstly, what is a Packaged CDP?
+A Packaged Customer Data Platform (CDP) is an all-in-one productized solution with capabilities to collect and store data from multiple sources, transform and unify the data, resolve identities, build audiences, and sync data to downstream destinations. Additionally, some packaged CDPs also offer tools to define data quality rules, implement data governance protocols, and comply with privacy regulations.
+There are two key considerations here:
+1. A Packaged CDP needs to store a copy of the data it collects in order to resolve identities (ID resolution) and build unified user profiles. However, the ID resolution methodology used — probabilistic or deterministic — varies from vendor to vendor.
+2. A Packaged CDP vendor usually allows companies to build their own packages by combining core capabilities and add-on tools.
+What is a Composable CDP then?
+A Composable Customer Data Platform (CDP) is a set of integrated tools that are assembled using open-source or proprietary software to perform some or all functions of a Packaged CDP.
+There are two key considerations here:
+1. A Composable CDP has some or all capabilities of a Packaged CDP, depending on how it is composed or assembled
+2. A Composable CDP is assembled using open-source software, managed solutions of open-source software, or proprietary SaaS tools
+Now that the definitions are out of the way, let’s dig deeper into the various components that a CDP comprises. 
+CDP Components
+One of the key challenges with the term “Customer Data Platform” is that it has been used and misused by a variety of software vendors in a variety of different contexts. Many vendors have even positioned a product feature as a CDP, just because that feature allows users to manage customer data that has been ingested into that product. 
+I’d like to list down a couple of caveats before offering a thorough rundown of each CDP component:
+* Not every Packaged CDP vendor offers all of these components
+* Several established CDP vendors offer additional capabilities or components
+* Within each component, the specific capabilities might differ from vendor to vendor
+* You don’t necessarily need all of these components to compose a CDP
+Let’s get into it.
+1. Behavioral Data Collection: Customer Data Infrastructure or CDI
+A CDI is a purpose-built tool that offers a set of SDKs to collect behavioral data or event data from first-party data sources. 
+Your core product — web apps, mobile apps, smart devices, or a combination — powered by proprietary code is a first-party data source, and behavioral data helps understand how your product is used and identify points of friction.
+This data is a prerequisite for a CDP and without this data, a CDP is, well, not a CDP.
+Behavioral data from your first-party data sources serves as the foundation for a CDP.
+There are two key considerations here:
+1. The CDI capability of a Packaged CDP is able to sync data directly to third-party tools downstream, without the need to store a copy of the data in your own data warehouse
+2. Standalone CDIs support the data warehouse as the primary destination and as compared to the CDI component of packaged CDPs, standalone CDIs (such as Snowplow) offer fewer third-party destination integrations
+To know more about CDI capabilities and vendors (some of which are part of larger CDP offerings), here you go.
+P.S. While I have been a huge proponent of the term CDI, in retrospect, I believe “Customer” should be replaced with “Audience” since the data that’s collected isn’t just about customers — in fact, data collection is initiated long before a user or organization becomes a customer. If Audience over Customer resonates, you'll enjoy reading this post.
+ Data collection components of a CDP: CDI and ELT/ETL 
+
+Data collection components of a CDP: CDI and ELT/ETL
+2. Data Ingestion: ELT (or ETL)
+A standalone ELT/ETL solution is purpose-built to extract all types of data from a growing catalog of secondary data sources (third-party tools) and load the data into cloud data warehouses. 
+Secondary data sources include third-party tools that users interact with directly or indirectly — tools used for authentication, payments, in-app experiences, support, feedback, engagement, and advertising.
+There are two key considerations here:
+1. A Packaged CDP that offers ELT capabilities — source integrations with third-party tools — first ingests the data in its own data store, and can additionally sync the data to a data warehouse via destination integrations. 
+2. The ELT capabilities of Packaged CDP vendors are very limited in comparison to purpose-built ELT solutions. If you need to data into a CDP from a source not natively supported by the CDP vendor, you’d have to build your own pipeline or use an ELT tool to send the data to a warehouse and then sync it back to the CDP using the source integrations offered by CDP vendors.
+If you’d like to explore the offerings of popular ELT vendors, here you go.
+3. Data Storage/Warehousing
+As already mentioned, Packaged CDP vendors store a copy of the data they collect in an internal data store or warehouse. Customers can additionally send a copy of the data to their own data warehouse or data lake via destination integrations. 
+The data warehouse, as you already know, is the core component of a Composable CDP — the centerpiece to which all other components connect to. 
+There are two key considerations here:
+1. The data warehouse has historically been used to store relational data from third-party tools and visualize that data using a BI tool. Therefore, to assemble a Composable CDP, even companies that already have a warehouse in place need to ingest behavioral data from their first-party sources using a CDI. 
+2. A Packaged CDP can be used alongside a data warehouse. In fact, it’s becoming increasingly common for customers of packaged CDPs to store a copy of their data in their own warehouse for future use. Additionally, companies are embracing a hybrid approach where they leverage a Packaged CDP’s out-of-the-box capabilities for certain use cases while also assembling a Composable CDP for advanced use cases that rely on custom data models.
+4. Identity Resolution and Profile API 
+Identity resolution is the process of unifying user records captured across multiple sources. It requires a set of identifiers (IDs) that are used to match and merge user records originating across sources, allowing businesses to get a comprehensive view of each user or customer. 
+Identity resolution has several use cases but it primarily helps with personalization and privacy efforts.
+ Identity resolution creates unified profiles that can be synced downstream using the Profile API 
+
+Identity resolution creates unified profiles that can be synced downstream using the Profile API
+There are two key considerations here:
+1. A Packaged CDP offers out-of-the-box identity resolution capability and builds unified user profiles. CDP customers can then sync these unified profiles to a data warehouse or to third-party tools using the available APIs. Also, as mentioned early on, a CDP vendor uses either the probabilistic or the deterministic methodology to resolve identities. 
+2. In the composable approach, companies have to manage identity resolution in their own data warehouse by writing the unification code using SQL. Due to the flexibility afforded by this approach, the analyst can use whatever ID resolution methodology that works best based on the available data points.
+5. Visual Audience Builder (and Data Modeling)
+Another prerequisite for a CDP, a visual audience builder is precisely what it sounds like — a drag-and-drop interface to build audiences or segments by combining data from various sources.
+Under the composable approach, this capability is offered by Reverse ETL tools, now being referred to as Data Activation tools. 
+There are two key considerations here:
+1. A Packaged CDP automatically creates the underlying data models on top of the data it stores, allowing non-data teams to build audiences without any dependencies. However, these models are rigid and customers cannot build custom models as per their specific business needs.
+2. A Reverse ETL/Data Activation tool requires data teams to build and expose data models (using SQL) on top of the data that’s in the warehouse to further enable non-data teams to build audiences using the visual audience builder. This approach gives businesses complete flexibility over their models and the ability to incorporate custom entities.
+P.S. I believe there needs to be a better term to describe this category of tools since Reverse ETL is just a feature and Data Activation is a use case that can be also fulfilled using a Packaged CDP. 
+6. Reverse ETL 
+As you already know, Reverse ETL refers to the process of moving data from the data warehouse to downstream destinations — typically third-party tools but can also be an internal database. 
+Companies have been building Reverse ETL pipelines for a while; however, the usage of the term “Reverse ETL” picked up only after the productization of Reverse ETL in early 2020 (I first heard the term in August 2020 from Boris Jabes, the founder of Census).
+It’s 2023 and now Reverse ETL is a feature or component of the CDP. 
+ Whether the CDP’s warehouse or the customer’s warehouse, moving data downstream is Reverse ETL 
+
+Whether the CDP’s warehouse or the customer’s warehouse, moving data downstream is Reverse ETL
+There are two key considerations here:
+1. A Packaged CDP’s capability to move data to downstream destinations, often referred to as orchestration, is essentially Reverse ETL where data is moved from the CDP’s own data warehouse instead of the customer’s warehouse. Today, most Packaged CDPs also support the customer’s data warehouse as a data source. 
+2. In the composable approach, companies that like to build everything in-house can build their own pipelines, or leverage Packaged Reverse ETL that is offered by Data Activation tools (like Census or Hightouch) as well as some CDIs (like RudderStack).
+7. Data Quality 
+An underrated albeit important component, Data Quality (DQ) helps companies ensure that the data powering their CDPs is not funky. DQ tools help companies maintain the validity, accuracy, consistency, freshness, and completeness of data — amongst other things. 
+Data Quality is a very wide category with a plethora of tools to find issues and maintain the quality of different types of data. However, behavioral data is the foundation of a CDP where one needs tools to ensure that the data is valid, accurate, and fresh.
+There are two key considerations here:
+1. A Packaged CDP typically offers data quality features to run tests against the behavioral data that it collects. It also offers the ability for teams to collaboratively build tracking plans.
+2. In the composable approach, the DQ component can either come from the CDI tool or a separate DQ solution (like Great Expectations) that can at the very least, validate the incoming data. 
+8. Data Governance and Privacy Compliance
+Another extremely important yet underrepresented component of a CDP is the ability to set up governance checks and compliance workflows. 
+It’s fair to say that this is something that businesses need anyway, irrespective of whether they use a CDP or not. However, if a business does use a CDP — whether packaged or composed — they need to ensure a few things such as:
+* Data collection is initiated only after a user has provided consent for data to be collected for specific purposes such as marketing or analytics 
+* Only the data that’s needed in a third-party tool is sent to that specific destination. For example, PII such as email address is sent to a third-party tool only after the end user has provided explicit consent to receive emails that are sent using that third-party tool
+* If a user opts out of data collection, no further data about that user should be collected across first-party and third-party sources. 
+* If a user wishes to be forgotten (GDPR) or wants to opt out of their data being sold (CCPA), erasure requests must be sent to the third-party tools downstream where their data was sent earlier
+* Internal team members should be able to access sensitive data or PII only if there’s a need for them to access that data, with granular role-based permissions
+These are just some of the key capabilities of the Governance and Compliance component of a CDP, and as you can tell, it’s not trivial to build this in-house. 
+ Data Governance and Privacy Compliance require CDPs to tightly integrate with Consent Management Systems 
+
+Data Governance and Privacy Compliance require CDPs to tightly integrate with Consent Management Systems
+There are two key considerations here:
+1. The Governance and Compliance capabilities of Packaged CDPs vary significantly and only the leading CDP vendors offer comprehensive toolkits.
+2. In the composable approach, one can leverage some of these capabilities offered by some of the CDI vendors or integrate standalone purpose-built tools for Governance and Compliance.
+Conclusion
+I sincerely hope that you now have a better understanding of what makes a Packaged CDP different from a Composable CDP and which approach is better to serve your organization’s needs. 
+If you decide to assemble a Composable CDP, you definitely need a capable data team that can stitch all the requisite components together which can indeed be a lot of work — is there a business opportunity here? I think so.
+Like it or not, the CDP is a beast and like Hydra, this beast continues to grow heads. We haven’t even touched upon more recent developments that will slowly but surely find ways to conspire with the beast — things like streaming data infrastructure, zero-party data, and of course, AI. 
+
+
+2019/07/06 21:11
+Markov Chain Attribution Modeling [Complete Guide]
+Markov chains, alongside Shapley value, are one of the most common methods used in algorithmic attribution modeling.
+WHAT IS THE MARKOV CHAIN?
+The Markov chain is a model describing a sequence of possible events in which the probability of each event depends only on the current state.
+An example of a Markov chain may be the following process:
+I am going for a week’s holiday. The likelihood whether I will do sport or just relax there, depends on where I spend my vacation (mountains or beach). The risk of injury during relaxation is negligible, while sport involves 1/10 probability of an accident:
+  
+
+The graph shows that an accident can happen when going to the beach as well as and in the mountains.
+The probability that during given vacation I will go to the mountains AND I will have an accident there (i.e. START > Mountains > Injury), is:
+P(injury, mountains) = 7/10 × 8/10 × 1/10 = 56/1000 = 5.6%
+The likelihood that the given holiday I will spend on the beach AND I will have an accident there (i.e, START > Beach > Sport > Injury) is:
+P(injury, beach)  = 3/10 × 1/10 × 1/10 = 3/1000 = 0.3%
+In this process, there is no other way to have an accident. The total probability of an accident is thus:
+P(injury)  = P(injury, mountains)  + P(injury, beach) = 5.6% + 0.3% = 5.9%
+It explains why I return home with a leg in a cast every 5-6 years if I travel three times a year.
+MARKOV CHAINS AND CONVERSION PATHS
+How can we use Markov chains to analyse multi-channel conversion paths?
+Imagine that we have only four paths, two of which are converting. Conversion rate is therefore 50% (yes, it is high, but on such numbers it will be easier to understand the calculations).
+  
+
+These paths can be presented as the following graph:
+  
+
+For better readability, instead of multiple arrows, we will use single arrows (arcs) labelled with the number of conversion paths included in the given arc.
+This number, divided by the count of all arcs outgoing of the given node, represents the probability of transition between the graph nodes:
+  
+
+Let’s see now what is the probability of conversion in this graph.
+In order to calculate it, we have to sum up the probabilities of conversion for all possible paths in the graph that lead from the START node to the CONVERSION node.
+In this case, there are three such paths, marked in different colours:
+  
+
+The total probability of conversion in this graph is 1/2 (i.e. 50%), which is the same as the conversion rate of the analysed paths (four paths, two conversions).
+Please note that the paths of transitions in the Markov chain graph leading from START to CONVERSION or NULL (no conversion), are not the same as the conversion paths.
+MARKOV CHAIN ATTRIBUTION
+The Markov chain attribution modeling is based on the analysis of how the removal of a given node (a given touchpoint) from the graph affects the likelihood of conversion.
+Let’s see what happens if we remove Facebook.
+Arcs (arrows) outgoing of this node will cease to exist. Therefore, in such a truncated graph there is only one path from START to CONVERSION (marked in red). Its probability is 1/9:
+  
+
+Similar calculations made for Google, give a result that after removing this node, the probability of conversion is 1/6:
+  
+
+After removal of remarketing, there is no path from START to CONVERSION in this graph. Therefore, the probability of conversion without remarketing is zero:
+  
+
+The next step is to calculate the Removal Effect for each node of the graph. It is calculated according to the formula:
+  
+
+The removal effect represents the percentage of all conversions that will likely to be lost if you remove the given channel (touchpoint).
+The removal effects of all nodes do not sum up to 100%, therefore in order to calculate the shares in the result, the removal effects must be normalised, i.e. reduced proportionally so that they total up to 1 (100%).
+  
+
+Of course, in order to calculate the conversions attributed to a given channel, we have to multiply the share in the total result by the total number of conversions. In our case, we have 2 conversions (two paths with one conversion each). The attribution in the Markov chain model in this case will look like this:
+  
+
+LACK OF NON-CONVERTING PATHS DATA
+There are no instant reports including non-converting paths in Google Analytics
+You can try to obtain the non-converting paths data by creating a ‘pageview’ goal (any visit to the website is a conversion) or extract data about visits using segments in Google Analytics, or, preferably, use another tool to track interactions and conversions, e.g. Campaign Manager (Google Marketing Platform).
+The Top Conversion Paths report in Google Analytics contains only converting paths:
+  
+
+It is possible to build Markov chains using only converting paths. The converting paths in our example campaign are shown below:
+  
+
+The Markov chain graph will look like this:
+  
+
+In such a Markov chain the probability of conversion is 1, because all paths in the graph lead to CONVERSION.
+As in the previous examples, let’s calculate the removal effect for individual channels. The likelihood of conversion after removing Facebook is zero:
+  
+
+Without Google, the probability of conversion is 1/2:
+  
+
+After removal of the remarketing, the probability of conversion is zero:
+  
+
+We can calculate now the shares in the total result for each individual channel:
+  
+
+An interesting fact is that in this case the Markov chains model gives the same attribution as the linear model. It’s not a coincidence.
+However, this is not a rule. The Markov chains and linear models will give identical results only in case of less complex graphs. In case of the conversion paths below, the result will be different:
+  
+
+The graph based on the paths above will only be a bit more complex than in the previous example, but what makes it different, it’s the presence of loops in the graph (marked in yellow):
+  
+
+LOOPS
+Loops in Markov’s chains significantly complicate the calculation of the conversion probability. The complication results from the fact that there are infinitely many possible paths leading from START to CONVERSION in the graph, because each loop can be entered any number of times.
+Let’s see how it looks like in case of simplest loops.
+Say, we have two converting paths:
+  
+
+The Markov chain graph for these interactions is as follows:
+  
+
+We know that the total probability of conversion is 1 (all paths convert), but let’s see how we can calculate it in the graph. The simplest path from START to CONVERSION does not contain any loop and represents the START > Facebook > CONVERSION path in the graph. Its probability is 2/2 × 2/3:
+  
+
+You can also get from START to CONVERSION by making one loop through the Google node: START > Facebook > Google > Facebook > CONVERSION.
+After adding it, the probability of conversion increases by another component:
+  
+
+A double loop (START > Facebook > Google > Facebook > Google > Facebook > CONVERSION) generates another component of the conversion probability:
+  
+
+After adding infinite number of loops, the total probability of conversion will approach 1 (100%) in the limit:
+  
+
+It becomes even more complicated if there is more than one loop in the graph. See the example below:
+  
+
+The Markov chain graph will look like this:
+  
+
+The calculations in this case will be more complex. The transitions on the paths may enter both loops (loops via Google or via Facebook node) in a different order and we have to take into account all possible permutations.
+In this case, there are two paths including one loop, four paths including two loops, 8 paths including three loops and for n loops there are 2n possible paths:
+  
+
+In the case of more complex graphs it will be even more complicated.
+It is obvious that the calculation of Markov chains must be done using numerical methods. We have built a simple tool (beta) for Markov chains attribution calculations. However, before you start using it, it is worth to read this article to the end.
+REPETITIONS OF INTERACTIONS
+See what happens if in our example conversion paths…
+  
+
+… one repetition of interaction (Facebook) would appear on one of the paths:
+  
+
+This modification of the graph would look as shown on the picture below. At the top there is a graph without repeating interaction with Facebook, and below you can see the same graph including a loop representing the repetition of the interaction with Facebook:
+  
+
+Calculation of such a loop is trivial. See the picture below: The removal effect of the node without the repetition (at the top) will be exactly the same as the removal effect of the node with the repetition (below):
+  
+
+Therefore, for the purpose of calculating the probabilities of transition in the graph, and in consequence, for the purpose of attribution modeling, repetitions do not change anything. Graphs with and without repetitions are equivalent.
+In other words, if there are repetitions on the conversion paths, e.g.:
+Facebook > Facebook > Google > Remarketing > Remarketing
+this path is equivalent to a path without these repetitions:
+Facebook > Google > Remarketing
+The repetitions can be simply ignored, and we can replace the repeating interactions with a single interaction.
+HIGHER ORDER MARKOV CHAINS
+According to the definition, the probability of transition to a given state in the Markov chain depends solely on the current state. We can say that the nodes of the Markov chain “have no memory”.
+What does this mean in practice? Take a look at the graph below.
+The probability of conversion after interaction with Remarketing is 2/3 – regardless of whether the previous visit was from Facebook or Google:
+  
+
+We know that this is not really true. The effectiveness of remarketing will be radically different depending on how the audience was built, whether it contains users who previously searched for your product on Google, or people who has just shown interest in your post on Facebook.
+This issue is solved by higher-order Markov chains. In the case of 2nd order chains, the probability of transition to a subsequent state depends not only on the current state but also on the previous state. Therefore, instead of individual interactions, we will analyse pairs of interactions:
+  
+
+The Markov chains graph will look like this:
+  
+
+Calculations of conversion probability are made the same way as in the case of the first order Markov chains. The probability of conversion (sum of three possible paths in the graph, marked with colours) calculated using this graph is still 1/2:
+  
+
+We calculate the removal effects similarly as in the case of 1st order Markov chains.
+The removal of Facebook will erase all pairs of interaction containing Facebook and the probability of conversion decreases to 1/8:
+  
+
+Similarly, we can calculate the probability of conversion without Google:
+  
+
+… and without remarketing:
+  
+
+Calculations of the removal effects and shares in the result are the same as in the previous examples:
+  
+
+You can also create Markov chains of the 3rd, 4th and higher orders. Their nodes will have an even longer “memory” and the probability of transition between nodes will depend on the current state, as well as on two, three etc. previous states respectively.
+If you will use higher-order Markov chains, you’ll notice that using higher and higher order at certain point does not significantly change the attribution. In practice, Markov chains of a higher order than 4 are rarely used.
+SINGLE-CHANNEL PATHS
+Markov chains attribution calculations use the normalised removal effect. It causes some problems with single touchpoint paths, i.e. those with only one interaction.
+Let’s see the example below. We have two paths here, one of which contains only one interaction, i.e. Mail:
+  
+
+The Markov chain graph will look as follows (probabilities add up to 100%):
+  
+
+Let’s calculate the conversion probability after removal of Facebook…
+  
+
+… Google …
+  
+
+… and Mail:
+  
+
+Calculation of the removal effect, share in the result and attributed conversions is shown below:
+  
+
+Note that in this attribution model, the Mail channel contributed to 0.67 conversions, which means that the third part of the conversion that occurred after interaction with Mail has been somehow attributed to Facebook and Google.
+  
+
+Since there was no other interaction on the conversion path containing Mail, why do we attribute any share in this conversion to other channels? It does not make sense.
+It actually shows that the Markov chains attribution even as a theoretical model is a kind of approximation.
+One of the solutions used is to remove single-channel paths from the Markov chains analysis. Since only one channel is involved in the conversion, the attribution is obvious (we attribute it to this one channel only) and there is no need for advanced modeling. Thus, we should only calculate Markov chains for conversion paths with two or more interactions, and then we should add conversions from single-channel paths to the attribution of multiple channel paths.
+MARKOV CHAIN ATTRIBUTION TOOL
+We have built a simple tool that allows you to calculate the Markov chains attribution. This tool has following options:
+* inclusion of only converting paths OR both converting and non-converting paths
+* Markov chains of the 1st, 2nd, 3rd and 4th order
+* possibility of separate calculation of single-channel paths
+The tool (beta) is available at tools.adequate.pl.
+PROPERTIES OF MARKOV CHAIN ATTRIBUTION
+Markov chain Attribution is an alternative to attribution based on the Shapley value.
+It is burdened with an embedded error resulting from the use of the removal effect. As result of normalisation, the attributed value of conversions is unfairly shifted from single-channel paths and other short paths to longer conversion paths.
+However, this model has many useful features. First of all, this model is much less sensitive to random data with less statistical significance, which can completely distort, for example, the calculation of Shapley value. Thanks to this, Markov chain attribution can be used for smaller data sets and for larger channel granulation.
+Despite certain complexity associated with graph loops, Markov chains require less computing power than Shapley value, which makes Markov chains attribution suitable for analysing higher numbers of touchpoints.
+Markov chains often give results oscillating around the results of the linear model.
+Markov chains are not so much sensitive in terms of detecting click spam as the Shapley value is (click spam are numerous interactions with actually no incremental effect on the total number of conversions).
+You should also remember that regardless of the attribution method used, any algorithm that use conversion paths as input data is based on the analysis of correlations. Correlation, however, may indicate causation between interaction and conversion, but it is not proof of it, and therefore these models may sometimes misinterpret signals. For this reason, these algorithms do not detect conversion hijacking (like brand bidding, discount coupons etc.), as conversion lift methodology does.
+Nevertheless, the comparison of Markov chain attribution to the linear model and other models can provide valuable signals for further analysis.
+
+
+________________
+
+
+AUTHOR
+Witold Wrodarczyk
+CEO, Adequate Interactive Boutique Google Ads & Analytics Certified Facebook Blueprint Certified Facebook Marketing Consultant
+FEBRUARY 17, 2023
+Meaningful metrics: How data sharpened the focus of product teams
+by Erin Gustafson
+Many companies grow through paid marketing, but at Duolingo, our strategy is a little different! As of early 2023, ~80% of our users were acquired *organically*—maybe they followed us on social media or heard about us from a friend—and we maintain this organic growth by building the best product we can, and giving it away for free. Our hope is that eventually, learners will enjoy using Duolingo so much that they pay for a set of premium features—and it’s working! We’ve found that 7% of Monthly Active Users—and growing!—subscribe to Super Duolingo.
+In other words: Our business grows because learners love our product and spread the word to their family and friends, some of whom eventually download the app and subscribe. Rather than investing marketing dollars to drive immediate revenue, we play the long game.
+Sounds great, right? But maintaining a healthy ecosystem of Daily Active Users (DAUs) at various points in their lifecycle is a delicate balance. The more learners we have, the more diverse their needs become. To maintain organizational focus while serving this expanding, and evolving, population, we orient teams around movable metrics that matter, and then run hundreds of A/B tests to optimize for those metrics!
+But how do you decide on the metrics that matter? And how do you advocate for an organization to adopt new metrics? And what happens if existing metrics stop moving? Our Data Science team developed a growth framework that helped to grow DAUs by 4x since 2019. Let’s explore the path that led us to that framework (the Growth Model), the tangible impact it’s had on our business, and how we’re thinking of evolving the framework to take us into a new phase of growth.
+Getting our DAUs out of a rut
+In 2018, after several years of strong year-over-year (YOY) growth, our DAU metric was stagnating. The team focused on growing DAUs was struggling to develop A/B tests with significant impact. So we rethought our approach: Could we refine our focus by optimizing metrics that drive DAU indirectly? In other words, how could we break up the DAU monolith into smaller, more meaningful (and hopefully, easier to optimize) segments?
+The Growth Model is a series of metrics we developed to jump-start our growth strategy with data. It is a Markov Model that breaks down topline metrics (like DAU) into smaller user segments that are still meaningful to our business. To do this, we classify all Duolingo learners (past or present) into an activity state each day, and monitor rates of transition between states. These transition probabilities are monitored as retention rates (e.g., NURR or New User Retention Rate), “deactivation” rates (e.g., Monthly Active User, or MAU, loss rate), and “activation” rates (e.g., reactivation rate).
+  
+Illustration of the Duolingo Growth Model: Technical Details
+The model above classifies users into 7 mutually-exclusive user states:
+* New users: learners who are experiencing Duolingo for the first time ever
+* Current users: learners active today, who were also active in the past week
+* Reactivated users: learners active today, who were also active in the past month (but not the past week)
+* Resurrected users: learners active today, who were last active >30 days ago
+* At-risk Weekly Active Users: learners who have been active within the past week, but not today
+* At-risk Monthly Active Users: learners who were active within the past month, but not the past week
+* Dormant Users: learners who have been inactive for at least 30 days
+As the arrows in the chart indicate, we also monitor the % of users moving between states (although we watch some arrows more closely than others).
+As an example, let’s say a batch of New Users come to Duolingo for the first time on day 1. Some subset of those learners come back to study the next day as well: The proportion of day 1 learners who return on day 2 equals NURR. This day 2 transition puts these learners into another “active” state (Current User).
+You might be asking yourself, “Could existing users be mistaken for “new users” if they get a new phone, or log in on a non-mobile device?” Lucky for us, our partners on the Engineering team developed a sophisticated approach to resolving user activity across multiple accounts called “aliasing.”  Data Science works with data after it has undergone the “aliasing” process.
+Now, what happens to those New Users on day 1 who don’t come back on day 2? They will transition into an “inactive” state (At Risk WAU). Because they’re currently inactive, they’re not a DAU. But they have still been active once in the last week (i.e., a WAU), hence the name of the state. Inactive learners remain in the At Risk WAU state for their first 7 days of inactivity.
+After 7 days of inactivity, learners transition to the At Risk MAU state where they can remain for up to 22 days. Once learners are inactive for 30 days, they transition to the Dormant User state where they remain until they become active again.
+Each “inactive” state (At Risk WAU, At Risk MAU, Dormant) has two transitions out of that state and at least two transitions into that state. Learners in the Dormant state can either remain inactive and stay in the same state day-to-day or transition to Resurrected if they become active again. Similarly, learners in the At Risk MAU state can stay inactive or transition to Reactivated if they decide to open up the app. (For specific calculations, see Appendix).
+Finding our new “movable” metrics
+With the Growth Model in place and trained on historical data, we began to run growth simulations. The goal of these simulations was to identify new metrics that - when optimized - were likely to increase DAU. We did this by systematically pulling each lever in the model to see what the downstream impact on DAU would be. Here’s what it would look like if each transition state saw 2% month-over-month growth over a period of time:
+  
+
+The results were pretty clear cut: Increasing the Current User Retention Rate (CURR) 2% month-over-month had the largest impact on DAU. We staffed a team who started running A/B tests to see whether 1) CURR is a metric we can move and 2) moving CURR actually moves DAU (remember: correlation does not equal causation!). And they were successful! With a team now focused on optimizing a movable metric, growth in DAU kicked off again and we continue to see consistent, yearly growth.
+This initial application of the Growth Model was only the beginning! This framework has become core to how we think about growing our product. We’ve used the Growth Model to…
+* Build a statistical forecast of individual drivers, which then ladder into DAUs
+* Set quarterly and annual goals for teams, above and beyond anticipated movement in the metrics
+* Add new dimensions for analysis (i.e., user-level state labels, like Current User) to our in-house Analytics and Experimentation platform
+Next up: evolving beyond aggregate metrics
+In 2018, our DAU growth was stagnating and the Growth Model helped us identify new avenues for kickstarting growth. Fast forward to 2023… and DAU growth is strong and consistent. CURR was the key to unlocking this new phase of growth.
+As CURR has inched higher and higher, we’ve begun asking ourselves two questions. The first: What is the ceiling for CURR? We know it’s not 100%. Sometimes people forget to complete a lesson, or have technical difficulties, or just want to take a break. (This is why we have the Streak Freeze - and an entire set of memes about Duo reminding learners to take their lessons!) We know we’re not quite at that ceiling yet (CURR keeps growing!) but we want to proactively head off a wave of stagnation as we approach that ceiling.
+A careful reader will note that the Growth Model is calculated on an aggregate basis. This leads us to our second question: What opportunity are we leaving on the table by reducing a diverse learner base to a simple average? Averages are convenient and scalable, but we’ve found that because of our strong growth in CURR over the years our bases of Current Users has grown into a new monolith of users (90% of our DAU fall into this state!).
+Why does this matter? Well, we’ve found that our aggregate metrics aren’t allowing us to see all of the distinct, diverse learners in each state. This means that CURR is an increasingly imprecise measure of Current User behavior, and we run the risk of this metric becoming hard to move (just like the 2018 problem we faced with DAUs!). It’s also harder to set reasonable goals and forecast accurately, which is increasingly important now that we are a public company.
+With these questions in mind, we’ve begun exploring “bottom-up” methods for user segmentation as a complement to (and perhaps as an eventual replacement for) our current “top-down” method from the Growth Model. By turning to unsupervised learning techniques to allow unexpected patterns to emerge in the data, we’re also moving the organization away from analytical frameworks that can foster confirmation bias. The “top-down” nature of the Growth Model bakes in a lot of our preconceived notions about what matters for our business, while the “bottom-up” nature of our new approach will unlock new insights beyond “the path most taken.”
+We’re excited to put this new idea into action and unlock our next phase of growth!
+Special shoutout to a team of important collaborators on the foundational Growth Model work: Jorge Mazal, our former Chief Product Officer who had the original idea for the framework, and Vanessa Jameson, an engineering director at Duolingo who collaborated with me to bring the idea to life.
+Appendix
+We can trivially compute the number of unique learners who fall into each state on a given day by leveraging the transition probabilities from the prior day. Let’s take a look at the series of calculations needed to specify the value of each state on a given day.
+Starting with our top-line company KPI, DAU, which is calculated by counting the unique learners in each “active” state on a given day (where t = some specific day):
+DAUt = ReactivatedUsert + NewUsert + ResurrectedUsert + CurrentUsert
+	High-level aggregated metrics like WAU and MAU are calculated similarly, but with some “inactive” states also included:
+WAUt = ReactivatedUsert + NewUsert + ResurrectedUsert + CurrentUsert + AtRiskWAUt
+MAUt = ReactivatedUsert + NewUsert + ResurrectedUsert + CurrentUsert + AtRiskWAUt + AtRiskMAUt
+	Active states are calculated in the following ways:
+ReactivatedUsert = ReactivationRatet * AtRiskMAUt-1
+ResurrectedUsert = ResurrectionRatet * DormantUserst-1
+CurrentUsert = NewUsert-1 * NURRt + ReactivatedUsert-1 * RURRt + ResurrectedUsert-1 * SURRt + CurrentUsert-1 * CURRt + AtRiskWAUt-1 * WAURRt
+	What about New Users? Learner’s initial transition into the model is unmeasured, though this is an extension to the model that we have considered. More on this below!
+Inactive states are calculated as follows:
+DormantUsert = DormantUsert-1 * DormantRRt + AtRiskMAUt-1 * MAULossRatet
+AtRiskMAUt = AtRiskMAUt-1 * ARMAURRt + AtRiskWAUt-1 * WAULossRatet
+AtRiskWAUt = AtRiskWAUt-1 * ARWAURRt + CurrentUsert-1 * (1-CURRt) + ReactivatedUsert-1 * (1-RURRt) + NewUsert-1 * (1-NURRt) + ResurrectedUsert-1 * (1-SURRt)
+	WRITTEN BYALL AUTHORS
+
+
+
+Erin Gustafson
+Erin Gustafson is a lead data scientist working on assessment, learning analytics, and educational data mining. She holds a PhD in linguistics with a specialization in cognitive science.
+
+
+ Headspace 
+
+Headspace
+Oct 18, 2021
+·
+11 min read
+·
+Listen
+Explainable and Accessible AI: Using Push Notifications to Broaden the Reach of ML at Headspace
+Author: Matt Linder / Co-Author: Koyuki Nakamori
+  
+
+TL;DR
+* Headspace wanted to serve personalized content to members who had not recently opened the app
+* We built out infrastructure that allowed us to leverage our Cloud services, plus the 3rd party Braze Customer Engagement platform, to serve Machine Learning-recommended content to members via push notifications
+* Our first experiment doing so got GREAT results
+* We implemented that experiment as an evergreen model in production
+* You should, too
+Introduction and Problem Statement
+Headspace’s core products are iOS, Android, and web-based apps that focus on improving the health and happiness of their users through mindfulness, meditation, sleep, exercise, and focus content. Machine learning models are core to our user experiences by offering recommendations that engage our users with relevant, personalized content that builds consistent habits in their lifelong journey. Headspace also has an amazing Lifecycle marketing team, who do incredible work in providing regular communications — through email, push notifications, in-app modals, and other surfaces — that further our users’ engagement, helping them on their journey from prospects to members to advocates.
+Until recently, those two aspects — Machine Learning and the out-of-app communication channels served by Lifecycle- were totally separate. Traditionally, users consume our ML models’ personalized recommendations by
+1. Navigating to one of the app’s tabs / views that contains content (for example, our Today tab).
+2. Sending a request from the app client to ask our backend content services to load content to serve users.
+3. Our content services then forward the request to our Prediction Service, which supplies a content recommendation for that user (or, if none is available, generates a default fallback content to serve).
+The Problem
+This approach has three primary limitations:
+1. It isn’t able to directly respond to the immediate user’s context. For instance, if a user has recently searched for “trouble sleeping”, then when their local nighttime hits, we should ideally send them our best Nighttime SOS Meditation and Wind-Down content.
+2. Inactive or dormant user segments (those users who have not opened the app recently) are inaccessible. To actually influence and engage users, a necessary precondition is that users have to log into the app first. This leaves a huge area of improvement to engage dormant user segments that contribute significantly to undesirable subscriber base churn.
+3. Users don’t internalize / understand when content is actually being personalized, or why they are receiving the content recommendations they are receiving. That “meta-awareness” — when a user understands not only that something is being recommended, but why — can be hugely beneficial in boosting engagement. We all like it when something is made especially for us, so a lack of this type of Explainable AI is a serious missed opportunity.
+Before we dive too deep into the solution to our threefold problem, let’s expand upon this idea of Explainable AI.
+According to IBM “Explainable AI (XAI) is a set of processes and methods that allows human users to comprehend and trust the results and output created by machine learning algorithms.” This is obviously a HUGE topic, with relevance in every area of AI and ML, but for the present moment, let’s scope it to the aforementioned use-case of content recommendation.
+To me, Explainable AI in content recommendation can be effectively summarized in one phrase: “Because you liked ___, you might also like ___”. This phrase, combined with an effective ML model, achieves so much:
+1. It uses kind and empathetic language to show that the service is paying attention. This makes it feel individualized.
+2. It ties the ML model’s recommended content to previously-experienced content, with which the user has established a relationship. Personally, I find that this helps prime me to go into the new content with a positive attitude and an open mind.
+3. It ties into an existing UX pattern with which the user is likely to be familiar and have positive associations. You can probably think of a couple of services you’ve used that use Explainable AI language like that above.
+All of these things combined make Explainable AI a very useful paradigm for content recommendation, and they’re clear reasons why Headspace was eager to break into the Explainable AI space.
+Explainable AI is also a core part of Headspace’s constant work in Responsible AI. Responsible AI is a huge and hugely important topic, more than worthy of its own blog post, but the short version here is that making our ML models explainable and interpretable allows us to better understand them from a human perspective. Content Recommendation isn’t an abstract subject: every single one of our “users” is a Headspace member — a very real person who wants to use our platform to help with their mental health and wellness journey. Our content often speaks to very sensitive topics, and we know our members’ relationship with the product is a very private one. Our recommendations need to be as trustworthy as our amazing meditation teachers, and we take this responsibility very seriously. Being able to explain to our members exactly why and how they were shown a recommendation is important. Headspace is very proud to have created a Responsible AI committee to keep us on track in this line of thinking, and that will guide all of our future work with ML and AI.
+Our Solution: Push Notifications via Braze Canvases
+The Headspace Machine Learning team tapped into our Engineering organization’s existing event bus and service infrastructure to create a scalable, maintainable pipeline for pushing ML-powered, XAI recommendations to our end users.
+Using this infrastructure framework, we have been able to deliver content recommendations to user segments that were previously inaccessible. An example of an in-app modal content recommendation for sleep content triggered by users’ recent search queries is below:
+  
+
+We can also leverage existing ML content recommendation on a user’s content completion to recommend a next appropriate piece of content to consume (for example, recommending the next logical content progression in a course series that the user is currently in the middle of or using a sequence-based ML model to predict the next most-likely content complete):
+  
+
+In this case, the Sequential Recommender model we started with is a Markov Chain-based model. If you are not familiar with Markov Models, the basic gist is that they use the history of past “state changes” (in this case just think of a state as being a single piece of content that a user consumes, and a state change as a user moving between different pieces of content) to calculate the probability of future changes, allowing us to make predictions based on those probabilities. Markov Models are some of the simplest possible tools for Sequential Recommendation, which is why we wanted to use one as our baseline for: a.) gauging the effectiveness of Sequential Models in this use-case, and b.) benchmarking future, more advanced Sequential Models (more on that later).
+High Level Architecture
+The high-level architecture diagram for the ML-powered push notification infrastructure is shown below. Implementation details and design considerations will follow.
+  
+
+The Event Bus Architecture
+The Headspace Machine Learning team leverages Databricks Spark as its default compute runtime — we use Scheduled Jobs to compute and refresh predictions.
+On top of that “typical” architecture, there were a couple of key decisions we made in constructing the architecture for this solution:
+1. We wanted to use Protobuf messages for scalability (the ability to push millions of messages very quickly)
+2. Using an SQS queue to decouple the producer (Databricks jobs / ML models) from the actual consumers (our Braze Service, etc.) and keep the design consistent with the rest of the app’s microservice-oriented, cloud-based architecture.
+With this architecture, the execution from the ML side is actually quite simple. Model data pull, training, and post-processing all happen via scheduled jobs on Databricks. We then use another scheduled job to send our prediction payloads — user id, previously-viewed content name, predicted content name, and a deep link to predicted content, just packaged as a Python dictionary — to our Push Requests SQS Queue.
+This wakes up our Push Notifications Lambda, which — processing the payloads in batches — repackages each payload as a Protobuf and sends them on to our Event Bus SNS Topic, which puts them on the Headspace Event Bus. Our Braze Service, listening for relevant, Braze-related events, takes the ML prediction payloads and forwards them to Braze, a third-party Customer Engagement Platform that we will discuss… now!
+Braze
+We don’t have time to get into everything that Braze does, or even everything that Headspace uses Braze for, so we’ll stick to what’s relevant: push notifications.
+In this use-case, Braze functions as a platform from which Lifecycle Marketing teams can group app users into audience segments and create Canvases and Campaigns to interact with those segments via push notifications. These push-notifications are often triggered by in-app actions, which is what the Braze service is typically listening for, but we’ve set it up so that we trigger our canvas with a custom event containing the very same ML prediction payloads we discussed in the last section!
+Treatment/Control Bucketing and Canvases
+As a mature Customer Engagement Platform, Braze has robust features for cleanly bucketing users into control/treatment groups for A|B testing and experimentation. The exact details of implementation are outside the scope of this article, but the basic outline was:
+* (with help from Lifecycle) We set up an appropriate Segment of users for our experiment
+* Then built our Canvas — a user flow that has the capability to: 1.) Bucket our user Segment into Treatment and Control populations; and 2.) Send different Push notifications to each of those groups
+* We used Braze Liquid variables to generate customized and personalized templates using the properties from our custom Event (remember: that payload from earlier)
+* We followed Lifecycle’s guidelines for setting up the many, MANY guardrails necessary for this type of direct communication with Headspace members: observing Quiet Hours, rate-limiting, global limits on the number of push notifications per day, etc., etc..
+We also implemented a Braze feature called Intelligent Timing for our Canvas. In essence, this feature allows you “to deliver your message to each user at the time which Braze determines that an individual is most likely to engage. Braze calculates the optimal send time based on a statistical analysis of your user’s past interactions with your messaging (on a per channel basis) and app.” There’s a lot to like about this feature, but we’re especially big fans of the fact that it allows us to batch send our Events to Braze without having to worry about when our users are going to receive the push notifications, in terms of their local timezone.
+Impact
+So far, we’ve implemented the above setup in one highly-successful experiment that’s turned into an evergreen model. The experiment, which used a Sequential Recommender model to predict relevant content for our members, achieved great results in many metrics, but — as mentioned in the introduction — we were most interested in its potential impact on users who weren’t already in the app. To that end, we were thrilled to see 78.65% lift in Completes among our Dormant segment of members (vs Control), defined as people who had not completed a piece of content in the last 30 days.
+Other significant metrics included:
+[Open Rate]:
+* 4.49% statistically significant lift in Direct Open Rate over Control
+[Content Start and Complete]:
+* 54.68% statistically significant lift in Content Start per Send
+* 68.49% statistically significant lift in Content Complete per Send among all member cohorts
+And this is just the beginning. Now that the infrastructure for serving ML predictions via push notifications is built out and this model is in production, the world is our oyster. There are so many possibilities with this new surface, not just for designing new experiments in content recommendation, but for any type of ML intervention we can think of. We’ve got big plans, and we hope to share them with you soon.
+Next Steps
+There’s WAY too much to share here, but to scope out a small preview, we can discuss just the ML side of things. The experiment above was performed with a baseline Sequential Recommender model, a Markov Decision Process module of our own design. As the ML-heads out there know, this is far from state of the art. Essentially, we achieved great results with a baseline model, but for the future, we plan on iterating towards more and more state of the art/complex models, including BERT4Rec (already achieving great results for us on in-app predictions), other Attention-based models like TiSASRec or Switch Transformers, all the way to full-on Reinforcement Learning, one of the current Holy Grails of ML.
+Relatedly, we’re also interested in doing our own optimization on push timing, to replace Braze Intelligent Timing. Intelligent Timing is really great, but we want even more flexibility. If we’re going to recommend a user a piece of Sleep content, isn’t it better to do so in the evening, even if Braze knows that they normally open their Headspace app at 9am (and would thus send the notification around then)?
+Key Takeaways
+In the hopes that this post inspired you to take the plunge and start serving ML via push, we thought we’d share some lessons we learned along the way:
+Best Practices:
+* Dogfood: Test Braze sends on a (VERY CAREFULLY CREATED IN BRAZE) Segment of in-house users, and make sure to have any delays/Intelligent Timing turned off
+* Listen to the experts: As mentioned a million times above, at Headspace, Braze is owned by the Lifecycle Marketing team, and they know what they’re doing. We always deferred to them on matters of Segment and Canvas creation, especially creative matters like notification copy.
+Be Patient:
+* As you can tell from the Architecture section, a lot of work went into provisioning the Cloud resources necessary to set this up. If your organization has any type of (Dev)Ops and/or CI/CD infrastructure, expect to work closely with them in setting up the necessary connections (Queues, Topics, Services) to make it all work. Hope you like Terraform!
+Lessons Learned:
+* Copy matters! Sure, we all like the concept of “Because you liked ___, we think you’ll like ___”, but take time to work with Marketing and Creative to sculpt your copy. What does it really mean to like a piece of content? Did the user like it, just because they watched/listened to it, or is there a better way of talking about it?
+We hope this has been helpful. Serving Machine Learning predictions via Push opened up a whole new surface for us to interact with your members, and it’s been a really interesting system to develop.
+HOW IT'S MADE
+“Avacado” or Avocado?
+ “Avacado” or Avocado? 
+
+ Jagannath Putrevu 
+
+Jagannath Putrevu
+Oct 14, 2020
+* * * * A simple search query correction heuristic for the resource-constrained
+At Instacart, our search engine is one of the most important tools customers rely on to quickly find their favorite grocery items in the digital aisles. But, oftentimes, some of the most common grocery goods are the trickiest to spell. We’re not all spellers or digital natives — if you mistype or forget how to spell 🥑 (it’s Avocado by the way) you’re not alone. But, that typo shouldn’t automatically mean you have a poor search experience.
+  
+
+Early Instacart users would see no results if they misspelled certain items in the search bar
+Some of our most popular misspelled queries are:
+* Siracha ♨️
+* Zuchinni 🥒
+* Jalepeno 🌶
+* Cantelope 🍈
+* Parmesean 🧀
+During the early days of Instacart our team was small and scrappy, and we used to manually add correction terms for commonly misspelled queries. But, this approach doesn’t scale. My first project as the first Machine Learning Engineer on Instacart’s Search & Discovery team 5 years ago, was to fix this problem. In technical terms, we wanted to improve the Recall of our search engine for misspelled queries.
+The query correction problem
+In general, we encounter two main query correction problems:
+* non-word query correction (spelling errors that result in non-words, for example, “avacado” for “avocado”)
+* real-word query correction (spelling errors that accidentally result in an actual word, for example “line” for “lime”)
+Non-word query corrections can be solved by using a dictionary and some form of distance function to map the incorrect word with a correct word from the dictionary. Real-word query corrections are much harder problems and require more state-of-the-art techniques like building a language model. Peter Norvig wrote a great post on “How to Write a Spelling Corrector,” which walks through some of these concepts.
+Given the short one-word queries we typically see with grocery searches, query correction is not an easy problem. There are thousands of papers on this topic and this is still a very active area of research. For us, the non-word query corrections were the most prevalent and accounted for most of the spelling errors that resulted in zero-result queries in the early days of Instacart.
+For any given problem, there may be standard “state-of-the-art” solutions that are not always trivial to implement. In the early days, we had to solve a number of technical problems when building the Instacart marketplace, and it was impossible to prioritize each of these problems. So, we had to get scrappy vs. state-of-the-art when tackling these issues. Our commonly used approach to problem-solving in those days was — “can we use a simple approach that solves 80%-90% of the problem in a short period of time?” We often went for a quick, yet very effective, heuristic. It not only solved most of the incorrect spelling problems but also gave us the added benefit of helping with the query reformulation problem, which we’ll explain below.
+The path to a successful query
+After entering a search query, a customer will take one of the following actions:
+* Add an item to their cart if the query yields precise results with good recall (this event is called a conversion)
+* Search for a variation of the same query if they do not get any results or are not satisfied with the results
+* Search for a different query altogether if they decide to not convert on the given query
+* Go to the checkout page to place the order
+* Bounce off Instacart.com if they are not satisfied with the experience
+For every query, each of these can be considered a different state the customer can move to in a Markov Chain. We are interested in helping the customer add an item to their basket (conversion state) as efficiently as possible.
+  
+
+If we take the misspelled query “avacado” for example, the transition probabilities look something like this:
+  
+
+If the most probable state the user transitions to next is a conversion, then we don’t have to correct the query. If it is any other state, then it most likely indicates a spelling mistake and we want to help the customer reach a converting state in a frictionless manner. By looking at historical search query logs, we can build this Markov model and correct bad queries and lead the user to a successful query.
+The heuristic
+We came up with the following heuristic to build this Markov Chain and easily generate query correction pairs:
+* Identify all consecutive search query pairs from historical search query data (the more data you have, the better)
+* Keep only those query pairs where the second query leads to a conversion
+* Identify the frequency of occurrence of these query pairs in history
+* Use a threshold for minimum frequency (say 10 or 100) and discard other query pairs
+* For each query, compute the probability of going to each subsequent query from the query pair data
+* Compute the Levenshtein Distance between the queries in each pair (it is basically the number of letters you need to change to get to the new query)
+* If the Levenshtein distance is less than a small threshold (we chose 2), then the pairs can be classified as spell correction pairs
+Performance
+Using this heuristic, we were able to correct all of our commonly misspelled queries:
+>>> correct_query(‘avacado’)
+‘avocado’>>> correct_query(‘siracha’)
+‘sriracha’>>> correct_query(‘zuchinni’)
+‘zucchini’>>> correct_query(‘jalepeno’)
+‘jalapeno’>>> correct_query(‘cantelope’)
+‘cantaloupe’>>> correct_query(‘guac’)
+‘guacamole’>>> correct_query(‘parmesean’)
+‘parmesan’
+We also realized that by looking at pairs whose Levenshtein Distance is greater than the chosen threshold (say 2), you could infer potential query reformulations as well. For example:
+>>> correct_query(‘organic ground pork’)
+‘ground pork’>>> correct_query(‘canned soup’)
+‘soup’>>> correct_query(‘cremini’)
+‘mushrooms’>>> correct_query(‘prawns’)
+‘shrimp’
+In the above cases, customers didn’t necessarily misspell their queries, but we did not have relevant items for what they searched for. They themselves tried a different alternative for which we did carry relevant items and converted. We used that historical data to automatically rewrite their query to a more suitable one which would yield the most relevant results.
+Getting results
+Using the heuristic above, we auto-generated thousands of query correction and reformulation pairs and used them to automatically redirect customers to the query with the highest conversion probability when the original query did not yield any results. The resulting experience for customers looks like this:
+  
+
+Automatically corrected ‘avacado’ to ‘avocado’ and showed the relevant results
+We were able to bootstrap our query correction and reformulation heuristic using our own data. In other words, we crowd-sourced our first search query correction heuristic 🙂
+It’s not always necessary to start with the most sophisticated approach to solve a problem, especially when you’re just getting started. Often simple heuristics give you a lot of mileage on most of the problems. Over time, we deployed more advanced Machine Learning techniques to improve on this heuristic. Stay tuned for future blog posts on this topic!
+Want to work on the next generations of Instacart Search? Our Algorithms team is hiring! Go to instacart.com/careers to see our current openings.
+Interested in learning more about Engineering at Instacart? Head over to our technology blog. 
+
+
+Jagannath Putrevu
+Jagannath Putrevu is a member of the Instacart team. To read more of Jagannath Putrevu's posts, you can browse the company blog or search by keyword using the search bar at the top of the page.
+
+
+ Ajay Sampat 
+
+Ajay Sampat
+Jun 6, 2019
+·
+7 min read
+·
+Listen
+Building Lyft’s Marketing Automation Platform
+  
+
+We take pride in our mission to improve people’s lives with the world’s best transportation. More than 50 million carbon neutral Lyft rides happen every month across the US and Canada — and we’ve barely scratched the surface in the potential for rideshare.
+Part of our growth is improvements in our acquisition process — like launching region-specific ad campaigns that increase awareness, and consideration of our multi-modal offerings. Coordinating these campaigns to acquire new users at scale has become time-consuming, leading us to take on the challenge of automation.
+Growth Acquisition
+Acquisition is typically led by a data-driven cross-functional team that focuses on scale, measurability, and predictability. You may have seen Lyft ads like these:
+  
+
+Acquisition operates at the top and largest part of the onboarding funnel, through the various channels listed on the left. No two channels are created equal: we work with different partners, technologies, and strategies to make sure that Lyft is the top choice for consumers. Other teams at Lyft focus on different parts of the user journey to provide a world-class experience. A high-level view is shown below.
+  
+
+Motivation
+Acquiring users at scale means making thousands of decisions each day, for each region where Lyft operates: choosing bids, budgets, creatives, incentives, and audiences; running tests; and more. Just keeping up with these repeated tasks occupies a great deal of marketers’ mindshare and can lead to suboptimal decisions. It’s expensive to the business and does not scale.
+  
+
+By automating routine decisions, we can scale efficiently and create a data-driven learning system. This also lets marketers concentrate on innovation and experimentation instead of operational activities.
+Path to Automation
+Our goal: build a marketing automation platform to improve cost and volume efficiency while enabling our marketing team to run more complex, high-impact experiments.
+Requirements:
+1. Ability to predict the likelihood of a new user to engage with our product.
+2. Measurement mechanisms to allocate our marketing budgets across different internal and external channels.
+3. Levers to deploy these budgets across thousands of ad campaigns.
+Marketing performance data contributes to a feedback loop to constantly nourish the reinforcement-learning system.
+Here are examples of problems we needed to automate:
+* Updating bids across thousands of search keywords.
+* Turning off poor-performing display creative.
+* Changing referrals values by market.
+* Identifying high-value user segments.
+* Sharing learnings from different strategies across campaigns.
+And so, we created Symphony — an orchestration system that takes a business objective, predicts future user value, allocates budget, and publishes that budget to drive new users to Lyft.
+Architecture
+The Symphony architecture consists of three main components: lifetime value (LTV) forecaster, budget allocator, and bidders.
+  
+
+  
+
+Our tech stack comprises Apache Hive, Presto, an internal machine learning (ML) platform, Airflow, and third-party APIs. A light front-end feeds in business targets and launches creatives. The architecture has a lot of moving parts and dependencies and requires rigorous logging and monitoring. We dive deeper into each component below.
+Lifetime Value (LTV) forecaster
+Understanding the potential value of a user is critical to every business. The goal of this component is to measure the efficiency of various acquisition channels based on the value of the users coming from those channels. Budget can then be allocated based on the expected value for users coming from a given channel and the price we are willing to pay in a particular region for those types of users.
+  
+
+The above diagram portrays at a high level how we calculate a user’s expected LTV while accounting for supply and demand in our two-way marketplace. We try our best to predict LTV accurately, as it helps us set mid- to long-term strategic goals.
+  
+
+Early in the user’s lifecycle, it is hard to get a sense of their retention, rides, or transaction value, so instead of attempting to measure LTV directly, we predict it from historical data. The forecast improves as the user interacts with our services.
+  
+
+The benchmark here represents average expected LTV from a cohort of users. These forecasts feed into the budget allocator and help it decide the value of users that come from a specific set of campaigns.
+Budget allocator
+The budget allocator collects marketing performance data in conjunction with LTV forecasts. Budget allocations are done using Markov chain Monte Carlo (Thompson Sampling). A curve of the form LTV = a * (spend)^b is fit to the data assuming a & b come from distributions with their own parameters (e.g. a comes from a distribution with mean μa and standard deviation 𝜎a ). Here’s the trick — we don’t try to estimate a & b directly as you would in standard regression. Instead, we estimate the parameters of their distributions: (μa, 𝜎a) & (μb, 𝜎b). Consequently, instead of drawing a curve with fixed a & b, each day we sample a different estimate of a & b from these distributions — naturally injecting a degree of randomness into our cost-curve creation process.
+  
+
+This type of random searching may seem wasteful, but modest exploration is actually optimal in the long run. It helps us explore points in the curve we would have not normally considered to converge to a global optimum.
+The budget allocator sends each campaign’s allocation to the respective channel bidder for deployment.
+Bidders
+Bidders publish the final changes needed to serve an ad at the target price point. Bidders are made up of two parts — the tuners and actors. The tuners decide how to deploy the capital based on available levers (e.g keyword, title, value, bid type for Google Search), while also considering channel-specific context. The actors communicate the actual bid to the internal and external channels like Job Boards, Search, Display, Social, and Referrals through API integrations.
+Over the years we have built relationships with our partners who help get our product in front of the right audience. Each channel, based on its level of sophistication, supports different bidding strategies. Some popular strategies are listed below.
+  
+
+We’re constantly experimenting to set each campaign’s bid with the right strategy and update cadence in an ever-changing digital media landscape.
+Bidders contain a lot of channel-specific nuances that help them make the best possible decision. The bidders also have some level of recency weighting and seasonality baked in to account for market volatility.
+Conclusion
+The long-term success of marketing automation at Lyft depends on incorporating human feedback into our machine learning platforms. This is generally referred to as “human-in-the-loop” machine learning, and enables machines to work on automation-breadth problems while empowering human operators to focus on knowledge-dependent problems. Without good input from the humans driving the automation engine, the quality of the models will suffer (“garbage in, garbage out”).
+Without the cognitive overhead of manually updating bids or allocating budgets, we expect our marketing teams to more nimbly apply audience and creative changes to campaigns. They have more time and energy to:
+* Understand our users and their interests
+* Ideate new ad formats, messaging & channels
+* Form hypotheses for big shots on goals
+We have many exciting ideas for the continued iterations to Symphony:
+* Always-on experimentation
+* Incorporating seasonal effects like weather & time of day
+* Better marketplace context to inform our bidders
+* Intelligent segmentation & personalization
+With Symphony, we are achieving a higher return on our investments while saving marketer hours. The system powers a growing ecosystem of more than 30 million riders and close to 2 million drivers (based on 2018 data). Marketing automation is still in its nascency at Lyft, and while these methodologies have helped us scale so far, we will continue learning and improving as we grow. We are excited for our bright machine learning and experimentation driven future.
+Acknowledgments
+Many thanks to the team — Alex Armenta, Jared Bauman, William Borges, Anna Campanelli, Dongwei Cao, Carolyn Conway, Ismail Coskuner, Petros Dawit, Jared Gabor, Langfei He, Robert B. Kaspar, Antonio Luna, Patrick McGrath, Usman Muhammad, Jack van Ryswyck, Alejandro Veen, Vidya Vutukuru, Xing Xing, and our cross-functional teammates.
+The Growth team is actively looking for talented and driven engineers, data engineers, scientists, product managers, and marketers to join our team. Learn about life at Lyft and visit the careers section for the latest openings.
+ Aditya Athalye 
+
+Aditya Athalye
+Jan 18, 2021
+·
+11 min read
+·
+Listen
+A Markov Chain Formulation for the Grocery Item Picking Process
+  
+
+Typical Grocery store in Walmart. Photo Courtesy — corporate.walmart.com
+A major chunk of Walmart business (and most of its markets outside the US) comes from Grocery. Customers place orders online which are then delivered to the shipping address or collected by customers from the store (CnC).
+What is common to both modes of fulfilment of an order?
+It is the process of picking items done by associates in the store. While the actual process has many complexities like downloading of online orders into the store, figuring out locations of items in store, generation of substitutes, generating optimized number of containers to fulfil an order, generating optimized pickwalks for associates across the store etc., the basic operation performed by the associate is to look at different items in an order (typically between 50–70 items) and add them to the containers.
+Use Case 1 — Picking Process
+Let us take the case of various steps of item picking
+Picking Steps
+Various steps in the picking process for an item are
+* Check the next item location and quantity.
+* Go to the location and check if item exists.
+* If item exists (in the quantity ordered), pick it and move to next item location.
+* If ordered item does not exist, look for 1–2 substitutions for it (These are shown to the associate on a handheld device).
+* If the substitute exists, and is good (some manual judgement by the pick associate), pick the one and move to next item location.
+* If substitute is unavailable, does not seem appropriate, or does not fit in the container, pick something which seems close to the ordered item, or do not pick anything and move on to the next item.
+Picking Step Visualization
+  
+
+Typical pick process Flow Chart for an item in the store.
+Once the order/item is delivered, a customer can choose to accept or reject it. Rejection can happen for various reasons namely
+Damaged item.
+Unsuitable substitute as per the customer.
+As per the above diagram, an item can end up in 3 possible states
+Customer Accepted
+Customer Rejected
+No Item Pick (Nil Pick)
+Business Metrics
+Based on this process, can we answer questions like
+* What is the percentage of total items picked daily that get manually picked and are accepted by the customer?
+* What is the percentage of items that are accepted by customers when their substitutes were Out Of Stock?
+* For a specific item category (say Colas), what percentage of substitute items get rejected when items do not fit container?
+* What is the percentage of items that get nil picked because original item was unavailable?
+Answers to questions like these can enable business to identify items/item categories which result in lower acceptance, higher nil picks etc.
+To achieve this, we propose a state transition model capturing probabilities of transitions based on available data.
+  
+
+Model
+We try to formally specify the real world picking process. Formal specifications help in removing ambiguities as well as present a consistent form of expression of processes (usually through well understood mathematical models and languages)
+The pick process lends itself very nicely into a Markov Chain Model. The pick process can be modelled as a set of states and state transitions with probabilities on them.
+Additionally, transition to next state in the pick process depends only on the current state and no past states, which makes it amenable to be represented as a Markov Chain.
+  
+
+A Markov state transition diagram.
+The various states in the pick process with abbreviations are
+* Ordered (Base) Item Found (IF).
+* Ordered (Base) Item Not Found (INF).
+* Substitute 1 picked (Highest Ranked/Most relevant) (SUB1).
+* Substitute 2 picked (Slightly lower ranked) (SUB2).
+* Substitutes Out Of Stock (OOS).
+* Substitute Inappropriate (BAD).
+* Substitute Does not fit into Container. (TOTE)
+* Substitute Not Located at Specified Location (LOC).
+* Substitute Manually Picked (MP).
+* Customer Accepted Item (CA).
+* Customer Rejected Item (CR).
+* Item Nil Picked (NP).
+This looks like any other Finite State Machine (FSM) with transitions between the various states, except that the transitions have probabilities. For instance, in the above diagram there is a probability of 0.3 that the pick process will move to SUB1 state from INF state.
+The probabilities on the transitions are empirical probabilities. i.e : based on historical evidences. However the methodology of calculation of probabilities would have no bearing on the process.
+Also notice the states in blue. (CA, CR, NP). These states have a self transition probability of 1.0. This clearly means that when the pick item enters any of these states, there is no path out of them with a non-zero probability.
+In a Markov Chain model, such states are called Absorbing States, and the above Chain can be called an Absorbing Markov Chain since each of the transition non-terminal states eventually land into one of the 3 absorbing states with a probability
+  
+
+where Abs is any absorbing state while NT is a non-terminal state.
+Formulation
+Now that we have defined the states and probabilities, let us express them as a Transition Matrix T
+  
+
+Transition Matrix showing the probabilities.
+The columns in blue represent the start state while the rows in green represent end states.
+Not the values in each of the rows. They all sum to 1, indicating that this matrix is a Row Stochastic Matrix or a Right Stochastic Matrix.
+It should also be noted, that the last 3 rows have only 1 entry each of value 1, indicating that those are self transitions for absorbing states.
+The transition matrix T for t transition states and a absorbing states above can be rewritten as
+  
+
+where Q is a t * t matrix, R is t * a matrix, O is the a * t zero matrix, and Ia​ is the a *a identity matrix.
+  
+
+  
+
+This decomposition of the monolithic transition matrix can allow us to perform certain operations which will give us the final stable matrix which gives probability of reaching into one or the other absorbing state from every transition state above.
+The stable matrix S is given by the following formulae
+  
+
+where N is the fundamental matrix which denotes probabilities of landing up into an absorbing state
+  
+
+which translates to
+  
+
+This formulation can be represented in matrix equation form as follows
+  
+
+where It is an identity matrix of same size as of Q (t * t). Computing the same for the transition matrix
+  
+
+  
+
+Finally calculating the stable matrix
+  
+
+  
+
+Fig 1. Final State Stable Matrix.
+What do we infer from the stable matrix?
+The entry in the ith row and jth column gives the final probability of transitioning from a transient state to the absorbing state.
+* It shows that when an ordered item is not found (INF), the probability of Customer Acceptance (CA) is 0.7675, whereas No Item Pick (NP) is 0.215, which shows that based on everything that happens in a pick process, Customer Acceptance stands at 77% whereas Nil Picks at nearly 22%.
+* Nil Picks are a direct loss to business so this process immediately highlights inefficiencies and where business needs to focus. Further it leads to bad customer experience.
+* We can see that overall Customer Acceptance goes down to nearly 59% if a substitution item location is incorrect, due to high probability of a Nil Pick (35% NP).
+Can we improve this?
+Grocery substitution generation process happens well before picking starts. That leaves the picker with whatever substitution that was generated few hours back. The substitution may run into any of the states (OOS, BAD, TOTE, LOC etc.) forcing a manual or Nil Pick.
+What if we added a possibility of requesting a substitute on demand by the picker? Let us say a new substitution was generated and sent, potentially tackling one or more of the problems above.
+This introduces a new state in the picking process (marked in Green) as seen below.
+  
+
+New state transitions to and from the new state “New Sub Picked” (NS) are added to the original transition matrix.
+  
+
+Transition matrix with new state.
+  
+
+Fig 2. Final Stable Matrix with a new state added.
+Note the stable matrices from Fig1 and Fig2.
+It appears that acceptance has fallen further. Except for acceptance for tote misfit case, all other acceptance probabilities have worsened.
+Why?
+That is because our hypothetical numbers introduced a new state which in itself reduced acceptance probability (0.88) as compared to manual pick which had a higher probability of acceptance (0.9). Also all paths that earlier went into the MP state now had reduced probabilities. All this while, our Nil Picks did not change.
+An analyst can easily conclude:
+Any on demand substitution MUST be an extremely relevant substitute and has to contribute to at least matching SUB1 acceptance rate.
+Any new state addition MUST not only reduce manual pick probabilities for OOS, BAD, TOTE, LOC states but also reduce probabilities of transitions going into NP (which is inversely proportional to the relevance and availability of a substitution product).
+Utility
+* While this is a relatively small part of the overall picking process, a mathematical model like an absorbing Markov Chain can clearly help business identify areas for improvement when the objectives are also defined clearly in numerical form.
+* The above formulation clearly helps reach 2 conclusions namely
+Reducing manual picks is not sufficient to get an increased customer acceptance, but that the on demand substitution has to be extremely relevant and needs to have an acceptance rate almost equal to that of SUB1.
+Nil picks MUST come down either in favour of manual pick or through on demand, which emphasizes the need for better inventory management, as well as a solution that can generate substitutions in near realtime.
+* It can help business to create models not only across all products (like the one shown above), but also at individual item categories or even at individual item level.
+Frozen Items.
+Chilled Items.
+Veggies.
+Green Apples etc.
+Use Case 2— Deterioration of Chilled Items during Delivery Process
+  
+
+Delivery workflow — Chilled Items. Photo Courtesy — corporate.walmart.com
+As with any item, chilled items go through the delivery workflow as depicted above.
+Item in the Chiller.
+Item Picked in trolley.
+Item stored in staging area for pickup.
+Item loaded into chilled area of the van.
+Item Delivered to the customer.
+Step 2, and Step 3 are steps in this workflow, where the chilled item is potentially exposed to ambient temperatures/light.
+As we are aware, exposing certain perishable items to light and room temperatures can cause certain biochemical reactions in the product deteriorating it. There is elaborate material discussing decay of product freshness for interested readers.
+For the sake of this discussion, we will focus on decay rate probabilities when exposed to ambient temperatures. The probability values are hypothetical, but created to illustrate the subsequent model and its usage.
+Model
+As before, we model decay rates and customer acceptance/rejections thereof as states with probabilities on each of those transitions.
+The numbers stated below are hypothetical meant only to illustrate the concept.
+The various states in the pick process with abbreviations are
+* Picking To Truck < 15 min (PT15)
+* Picking To Truck < 25 min (PT25)
+* Deterioration Rate UPTO 2% (DR2)
+* Deterioration Rate UPTO 5% (DR5)
+* Good (GOOD)
+* Customer Accepted (CA) — Absorbing State
+* Customer Rejected (CR) — Absorbing State
+  
+
+Once items are loaded into the trucks/vans they are refrigerated in the special chilled section of the van. Refrigeration usually tends to slow down the decay rate for most items, which is what is seen when items transition from higher rates of decay to lower ones.
+Transition matrix for the above diagram can be represented as
+  
+
+Can we answer questions like
+What is the final probability of customer acceptance if Pick Time to Van is 10 min, i.e : Chilled item exposed to ambient temperature for 10 min?
+What is the final probability of customer rejection if Pick Time to Van is 20 min?
+Following the above process of calculating the stable matrix, we get the following result
+  
+
+Fig 3. Final Stable Matrix.
+As expected, we see
+* Higher acceptance rate (82.5%) when items are exposed to ambient temperature for shorter duration.
+* As duration goes upto 25 min, acceptance probability drops to 78% and rejections go up.
+Utility
+* This analysis can help store management decide on measures to be taken to reduce decay especially when ambient exposure cannot be avoided.
+* Pick sequencing may be considered to ensure the exposure is kept minimum.
+Examples of Other Markov Chains
+* Pick Time Impact Markov Chain (Increase or decrease of Pick Item time as absorbing states).
+* Grocery Inventory Markov Chain.
+Conclusion
+Markov Chain Model is a great mathematical model for representing such workflow processes where the probability of transition to a state solely depends on the current state as seen in the examples above. This memoryless property of a process makes it ideal for modelling as a Markov Chain to estimate final probability distribution.
+In practice with an empirical probability model, the transition probabilities may change over time, with addition of new items, or changes in processes leading to totally different stable probability distribution and thereby new conclusions.
+It may be best to keep such automatons segregated to eliminate noisy outliers , based on item types, item categories etc. if probability variance is high.
+Data / ML
+Freight Pricing with a Controlled Markov Decision Process
+April 27, 2021 / Global
+Share
+This link opens in a new window
+This link opens in a new window
+This link opens in a new window
+  
+
+Intro
+Uber Freight was launched in 2017 to revolutionize the business of matching shippers and carriers in the huge and inefficient freight trucking industry (around $800B annual spend in the US). We believe, and have demonstrated, that a technology-first freight broker and marketplace can provide better opportunities to carriers, and superior outcomes to shippers and communities alike. 
+One of the wasteful processes we set out to eliminate through technology is the lengthy haggling between traditional freight brokers and carriers for the price of a load (a shipment in freight lingo). This practice stems from a lack of transparency on freight prices and on the willingness-to-get-paid by the carrier. Inspired by the role pricing innovation played in Uber’s massive growth, we decided to be the first freight broker to offer a transparent dynamic carrier pricing that “clears the market” through advanced algorithms, rather than with old school haggling that wastes hours and draws liquidity from the market.
+In this post, we describe our framework to generate the optimal sequence of upfront prices of tens of thousands of loads per day.
+ 
+Business problem
+Uber Freight accepts new loads to be hauled from shippers at all times, most often without human intervention. Each load has a pick-up location and time, a drop-off location and time, but also additional requirements, e.g. weight, that we will ignore in this write up. 
+Once Uber Freight commits to haul these loads, we have until the pick-up time to find a carrier to move the load. This window between the current time and the load’s pickup time – referred to as lead time – can be as low as 3 hours, and is on average 4-5 days long.
+We use this time window to digitally match carriers to loads through our carrier app, web portal, and API, using search, recommendations, and notifications, with the goal of covering the load — having a carrier book it for the upfront price. The pricing decision, guided by the algorithm, plays a key role in regulating the load booking rate.
+If we fail to automatically cover the load, we have two potential fallbacks. We can use proactive human outreach (our operations team) to cover the load manually, or we can “roll” the load — reschedule it to a later pickup date. Both have additional operational costs, and the latter also has a lifetime value cost with the shipper.
+  
+
+Data Science Framework
+Essentially, our upfront pricing algorithm needs to find for each load , the sequence of prices    over the time    , that minimizes the sum of the expected cost for all loads
+  
+
+(Eq1)
+In Operations Research terms, we face a problem of optimal pricing 
+1. of perishable goods — we incur an operational costs and penalties if not covered by pickup time,
+2. with a replenishing inventory — loads constantly arrive in the system,
+3. with cancellations — carriers and shippers sometimes cancel loads,
+4. under uncertainty — driver and load arrivals are uncertain, and so is the price that will result in a booking,
+5. with goods which are partially substitutable — each carrier is interested in a subset of similar loads in time and space,
+6. with a global constraint — our manual coverage arm capacity is capped.
+If we model our problem as a Markov Decision Process, this problem is very similar to the problem studied in Optimal Dynamic Pricing of Inventories with Stochastic Demand over Finite Horizons (Gallego and van Ryzin, 1994) and the associated literature.
+To understand the basic dynamics, it is useful to consider the case of a single load, and put contexts B to F aside. By doing so, we notably ignore that loads compete for the same drivers or for Ops capacity, which we will revisit in a future blog post.
+ 
+Single load case
+Let us note  , the expected cost of covering a load of characteristics  available at lead time   . We also note    the probability that it will be booked in   if we set its price to    given the state of the system    which notably represents market conditions.
+Under the optimal pricing policy,    satisfies the following recursive Bellman optimality equation
+  
+(Eq2)
+with terminal condition    where
+*   corresponds to i) the expected carrier cost negotiated manually and ii) the operational cost associated with manual coverage; and
+*   corresponds to the i) expected carrier cost of the following day, together with ii) the operational cost of rescheduling and iii) cost to the shipper relationship.
+We can take the minimum of the two, assuming we choose optimally between these options at   .
+Before we jump into the modeling side, we illustrate the outcome of the model. Below are the price trajectories of 2 “identical” loads picking up on Thanksgiving Eve, one going from Miami, FL to Atlanta, GA and the other going the reverse way. Notice the differences in i) the price level and ii) the amplitude of the price variation over time. Both mostly stem from the freight network topology — carriers in Miami have fewer options than those in Atlanta and outbound Florida freight is usually cheaper than identical inbound freight. Optimizing pricing in the context of these patterns is a critical task for our solver.
+  
+Pricing for pickup on Thanksgiving eve (2020-11-24) for Atlanta to Miami, and Miami to Atlanta
+ 
+Going back to Eq2, there are hence 2 key quantities that one needs to determine in order to find the optimal price path:
+   1. Booking probability  that captures the time-varying price elasticity of the load 
+   2. Terminal value   that captures the unique characteristics of the load 
+A common challenge in estimating these quantities is that the data is censored and subject to survival bias — we observe loads only until they are booked. Over the past few years, we have developed several best practices to handle these prediction problems.
+Booking probability
+At its heart, this is a binary classification problem. However, there are some characteristics of the problem which are worth highlighting:
+      * Measure price elasticity. Logloss or pROC are natural ways to measure the performance of that type of model. However,  is used inside a price-based solver, so loss of price elasticity  should be weighed against accuracy improvements, as low elasticities will produce unrealistically aggressive price curves.
+      * Enforce price monotonicity. This is obvious but worth remembering: booking probability should increase with price. Fortunately, over time, multiple models like XGBoost have gained the ability to enforce monotonicity, allowing new tradeoffs between complexity and stability.
+      * Augment dataset. On top of the upfront price, we also receive bids automatically or manually. These bids provide a useful counterfactual of what could have happened if we had changed the price – and only the price, which makes them valuable for training.
+      * Correct for censoring. The database containing load prices and the booking outcome does not match what the solver uses: we have few datapoints at   , whereas the Bellman equation always start from  . This means that the data may have to be weighted to reflect the importance of short lead times in the solver.
+  
+Distribution of datapoints used during prediction vs observed
+ 
+ 
+Terminal value
+One of the largest determinants of our pricing trajectory is the terminal   value that the Markov Decision Process will approach as lead time shrinks. This problem is mostly ignored in the literature of optimal dynamic pricing where the terminal value is most often assumed to be known.
+In our case, the terminal value is uncertain and difficult to observe:
+         * The freight industry – of which Uber Freight is only one participant – is volatile and rates can move by double digit % in days
+         * Only a small fraction of Uber Freight loads are manually booked or rolled, with most of the loads covered well ahead of their terminal stage
+         * And the observations of those terminal values are subject to survival bias: underpriced loads are more likely to reach   .
+Over time we developed a couple of techniques to improve the performance.
+            * Use non terminal values. We have found that the terminal value is best estimated through tree based models that incorporate not only deals done at   , but also use deals done at high lead times – with  used as a feature. 
+               * Correct offline training data for survival bias. Past deals that resulted in very quick booking can bias the training sets. Based on simulation it is possible to calculate the expected bias for a given booking speed and correct the price accordingly.
+               * Capture the impact of service levels on shipper LTV. Some shippers have explicit penalties for lack of performance, but most do not. We approximate the “penalty” of rolling a shipper’s load to the next day to make the tradeoff between service and margin explicit.
+               * Explore the lowest market price. Similarly to multi-arm bandit problems, we are uncertain of a key value and interested in maximizing the outcome on the cumulative life of a load. Taking inspiration from “Upper Confidence Bound” approaches, we found it useful to discount    based on estimated variance and time spent available.
+ 
+Building a resilient system
+The efficacy of the approach shared above hinges on the accuracy of the predictive models and the fit of the Markov Decision Process to the problem at hand. These can be compromised when situations arise that are far from historical behaviors, for example when the market shifted dramatically during COVID-19 related events in 2020.
+Hence, early on, we found it useful to add a monitoring algorithm to absorb shocks our model might miss. It effectively creates a form of PID controller which limits the drift of errors in the system, and helps enforce the booking speed targets set by the solvers.
+As you can see below, our controller was particularly active in Q1 of 2020, when demand briefly surged before decreasing significantly.
+Average controller values for pickup between February and May 2020
+Final thoughts
+Above we discussed a base version of the problem of optimally pricing freight in a dynamic environment, putting a lot of context aside and focusing on a single load without impact on the rest of the system, especially the supply of drivers or the operational capacity.
+We were extremely pleased to see that a Markov Decision Process produced superior pricing outcomes, not only because it is exciting to see theory working in practice, but also because the theoretical foundation allows us to extend the framework. For example, Uber Freight actually has multiple channels beyond booking through upfront price, notably bidding and committed capacity. The framework naturally generalizes to handle channels with different levels of friction and intent.
+If you enjoyed thinking through this problem, reach out. We are hiring!
+Guillaume De Roo
+Guillaume is a Data Science Manager on the Ads team. He started at Uber Freight, where he built the first pricing algorithms and the Pricing DS team.
+Project Management
+How Frank Gehry Delivers On Time and On Budget
+Lessons from the master architect in managing big projects 
+by 
+                  * Bent Flyvbjerg
+                  *  and Dan Gardner
+From the Magazine (January–February 2023)
+  
+
+Mercedes deBellard
+Summary.   
+A study of some 16,000 major projects—from large buildings to bridges, dams, power stations, rockets, railroads, information technology systems, and even the Olympic Games—reveals a massive project-management problem. Only 8.5% of those projects were...more
+                  * Tweet
+                  * Post
+                  * Share
+                  * Save
+                  * Get PDF
+                  * Buy Copies
+                  * Print
+When the Guggenheim Museum in Bilbao, Spain, opened, in 1997, critics hailed Frank Gehry’s masterpiece as one of the architectural wonders of the past century. The provincial government’s ambitious projections had called for 500,000 people a year to make the trek to Bilbao to visit the museum; in the first three years alone, 4 million came. The term “Bilbao effect” was coined in urban planning and economic development to describe architecture so spectacular it could transform neighborhoods, cities, and regions.
+But what’s less well-known is that the Guggenheim Bilbao also set a management standard that very few large projects have attained: It was delivered on time, within just six years, and cost $3 million less than the $100 million budgeted. And it has brought more attention, tourism, and development to Bilbao than the sponsors had hoped for, even in their wildest dreams.
+In the quarter-century since the Guggenheim Bilbao, Frank Gehry’s projects have repeatedly come close to or met the same demanding standard. “People presume I’m going to be over budget,” Gehry told us with a little exasperation. “Which isn’t true. All my buildings are built to the budgets agreed upon with the clients.” His record for meeting deadlines and working within budgets isn’t perfect. But it is extraordinary.
+Consider the data. One of us (Flyvbjerg) has led a team at Oxford to gather data on the costs and benefits of major projects around the world. The result is a database that includes more than 16,000 projects—everything from large buildings to tunnels, bridges, dams, power stations, mines, rockets, railroads, highways, oil and gas facilities, solar and wind farms, information technology systems, and even the Olympic Games. Collectively, it paints a portrait of big projects across the world. And the portrait is not pretty: Only 8.5% of them were delivered on time and on budget, while a nearly invisible 0.5% of projects were completed on time and on budget and produced the expected benefits. To put that more bluntly, 99.5% of large projects failed to deliver as promised.
+In that light, what Frank Gehry accomplished in Bilbao and elsewhere is astonishing. When you also consider that most of the projects in our database are relatively routine, whereas Gehry’s projects invariably do things that have seldom or never been attempted before, his record looks downright miraculous.
+The Guggenheim Bilbao set a standard that very few large projects have attained: It was delivered on time, within just six years, and cost $3 million less than the $100 million budgeted.
+So how does he succeed where so many others fail? In our interviews with Gehry and his colleagues, and from years studying his work, we’ve observed consistent patterns in the way he manages projects. From these, we have distilled four lessons that may help you make better decisions on the projects you manage.
+Make Sure You Have the Power to Deliver What You’re Accountable For
+Before he came to prominence, Gehry had lived and worked as an architect for more than 30 years in Los Angeles, designing single-family homes and other modest projects with thin budgets. He had developed a reputation for putting cheap materials—plywood and chain-link fencing—to innovative use. In time, the projects he was offered grew in scale, ambition, and cost.
+His big break came in 1988 when he was chosen to design the Walt Disney Concert Hall, a major new cultural addition to Los Angeles, underwritten by a $50 million gift from Lillian Disney, the widow of Walt. It was Gehry’s first world-class commission and a huge step up for the architect, who, despite his experience, had never worked on such a scale.
+But some of the powerful executives and city officials who had a hand in the project saw Gehry as an unproven minor-league player. Worse, he was an oddball known for using weird and cheap materials in his buildings. “They were scared to death of Frank,” says Richard Koshalek, chairman of the committee that had awarded the project to Gehry. So they sidelined him, asking him to deliver an initial design but not a detailed, buildable plan. That job would be given to an executive architect, with whom Gehry would share control of the project.
+The process Gehry follows from an idea to a finished building is based on trust. Trust produces power—and power gets projects done.
+As Gehry puts it, “There’s a tendency to marginalize and treat the creative people [the architects] like women are treated, ‘Sweetie, us big business guys know how to do this, just give us the design, and we’ll take it from there.’ That is the worst thing that can happen.” As Gehry predicted, the division of control on the Disney project didn’t work. The executive architect could not figure out how to turn Gehry’s daring vision of curved, flowing forms into something that could feasibly be built. The project stalled before construction even began. To observers, it seemed that fears about his ability to deliver were justified. Gehry felt like he was shouldering the responsibility—and blame—without having the power to fix things.
+The project languished for 10 years, during which Gehry both won and completed the Guggenheim Bilbao project. Then Eli Broad, the billionaire philanthropist, led a push to revive the Los Angeles project but maintained the stipulation that Gehry would provide initial design work only. Gehry responded with a public resignation from the project, and at that point, Diane Disney Miller—daughter of Lillian and Walt—intervened. “We promised Los Angeles a Frank Gehry building, and that’s what we intend to deliver,” she declared. There would be no further funding from the Disney family if Gehry was not kept on as the architect. Broad backed down, and in 1999, more than a decade after he won the commission, Gehry was finally given free rein over the project.
+  
+
+Walt Disney Concert Hall, Los AngelesAlexandre Weinberger/Trunk Archive
+With Gehry at last in control, the project took off and was completed four years later at a cost that met the budget set when he took the helm. Like the Guggenheim, it was dazzling. “Few buildings in the history of Los Angeles have come burdened with greater public expectations than the Walt Disney Concert Hall. None has lived up to such expectations so gracefully,” wrote the Los Angeles Times’ architecture critic Nicolai Ouroussoff. “It should be ranked among America’s most significant architectural achievements.”
+Frank Gehry’s long struggle to create the Walt Disney Concert Hall taught him something fundamental. Control was indispensable. He had to have it, and keep it, from beginning to end. He even coined a term for the setup he needed to be in control—“the organization of the artist”—with the creatives, that is, Gehry and his team, in charge. He has enforced this setup on every project since Disney Hall. It’s a root cause of his success.
+The form of his salvation taught him something else as well: If those in positions to grant power trust the project leader, she will have power; if they don’t, she won’t. As we’ll see, the process Gehry follows to take a project from an idea to a finished building has many virtues. But underlying all of them is the fact that his process is based on trust. Trust produces power—and power gets projects done.
+Always Ask Why
+In 1991, when Gehry was invited to join the project that became the Guggenheim Museum Bilbao, regional government officials acting as the client knew what they wanted. In the center of Bilbao, there was a huge old building with impressive towers and arches that had once been a wine warehouse. The officials wanted to transform it into a dramatic space for modern art and have the Guggenheim Foundation run it.
+With such a clearly defined project, another architect may have treated this as a simple choice: either accept or pass. Gehry did neither. Instead, he did what he does with every potential client. He asked questions, starting with the most fundamental: “Why are you doing this project?”
+What Gehry heard was that Bilbao is the heart of the Basque Country and was once a hub of heavy industry and shipping. But that was in the past. “Bilbao was not quite as bad as Detroit, but almost,” Gehry recalled several years later. “Steel industry gone. Shipping industry gone. It looked pretty sad.” Spain had an enormous tourism industry, but few people had even heard of Bilbao, let alone thought of going there. The officials told Gehry they wanted the museum to do for Bilbao what the Sydney Opera House had done for Sydney—give the city international prominence, draw tourists from around the world, and boost the economy.
+That was a lot of weight for any project to carry, and it was hard for Gehry to see how the project envisioned by the officials could deliver what they wanted. Although he liked the building they had selected, it wasn’t well suited to be a space for modern art. And when had a renovation ever had such a transformative effect? But understanding the goal of the project helped Gehry form a different vision that his clients could buy into. Gehry found a derelict site on the riverfront, next to a spectacular bridge, just like the Sydney Opera House. Build something audacious there, he suggested.
+ A loose drawing of horizontal lines and shapes that indicate the form of the finished Bilbao Guggenheim Museum juxtaposed with a picture of the museum taken from the river it sits on. The building resembles an undulating ship with reflective titanium and glass panels. 
+
+Guggenheim Museum, Bilbao, SpainGehry’s design sketch: RGR Collection/Alamy Stock Photo; Photo: Peter Knaup/Trunk Archive
+Far too many projects proceed on the basis of undiscussed assumptions. That’s dangerous. As the old adage has it: “Don’t assume. Verify.” Gehry does this by asking why. Assumptions may mask disagreements about a project’s ultimate goals. As a result, the initial conception of the project may be off. And without clear agreement on the goal, it will be at greater risk of wandering off course when it encounters inevitable problems and complications. By starting projects with meaningful questioning, and by carefully listening to the answers, Gehry figures out what the clients really want rather than what they think they want. As Meaghan Lloyd, Gehry Partners’ chief of staff, told us: “Sometimes he produces something for the client that they don’t realize they want because [he] listens so well.”
+Starting with questions, and really listening, is unnatural. As the Nobel-laureate psychologist Daniel Kahneman has shown, people suffer from availability bias, letting their thinking rush ahead on the basis of whatever information they already happen to have. Gehry’s questions put a stop to that. “You’re being curious,” Gehry says. “And that curiosity leads to invention.”
+It’s a skill Gehry developed in the 1960s, when he had marital problems and joined group therapy sessions where he took note as others revealed their inner turmoil. “I was able to dismantle the wall I had built around myself,” he told a biographer. “I began to listen. I don’t think I had ever listened before. But I heard what people were saying, heard it clearly. The more I listened, the more interested I became in them.”
+So when real estate developer Bruce Ratner approached Gehry in 2004 to build a 50-story high-rise on a site in lower Manhattan, Gehry asked him why he wanted to do that. What Gehry heard was that the project wasn’t only a business proposition: Ratner wanted to make a prominent addition to the world’s most famous skyline. In that case, Gehry told Ratner, the project needed to be taller. Ratner accepted but then lost his nerve during the 2008 financial crisis, when he wanted to erect a building only half the size. Gehry insisted on the original vision, and when the 76-story building at 8 Spruce Street opened in 2011, it was the tallest residential tower in the Western hemisphere and “the finest skyscraper to rise in New York since Eero Saarinen’s CBS Building went up 46 years ago” according to the New York Times. And it never would have happened if Gehry hadn’t asked “why” and listened to the response.
+As open and fluid as Gehry’s process is, it is not formless. Everything from the building’s relationship with its surroundings to the width of a windowsill has been subjected to scrutiny.
+Gehry doesn’t always push for the grand scale. When Luma, an arts foundation based in Arles, France, the city famous for Vincent van Gogh, asked Gehry to design its central building, his vision was down-to-earth and practical: a low, horizontal building that could display artwork of widely disparate types and sizes that would have to be shuttled in and out. But the foundation’s head, Maja Hoffmann, wanted more of a landmark: a “lighthouse” tower that could be seen far and wide. Together, the two developed a synthesis—a low, circular, glass base topped with a stunning, multifaceted stainless-steel tower that sparkles with reflected light. The result is both practical and beautiful. It’s also a testament to the power of collaboration.
+Simulate, Iterate, Test
+When prospective clients come to Gehry’s firm, they are walked through the development of past projects so that they understand Gehry’s process. That’s crucial because the discussion to shape the project’s initial conception is not the end of their involvement. It’s the beginning. “Some people aren’t up for it,” notes Lloyd. “It takes a brave person to work with us.”
+In designing Ratner’s Manhattan skyscraper, for example, Gehry started by “playing”—his description—with ideas in various media: doodles on paper, crude models with paper and wood, images on a computer. Initially, he imagined a twisting tower, like a long piece of licorice, and he played with many variations of that. But he worried that it wouldn’t give people the feeling of solidity that they needed to live comfortably in a Manhattan skyscraper not many years after the 9/11 attack. So he moved on to other ideas, trying one, then another, and another.
+At last, he hit on the idea of a rectangular tower with a facade made of stainless steel and glass that would bulge and recede in order to create the illusion, at a distance, of cloth rippling in the wind. Many more iterations followed. Finally, they decided they had what they wanted. It was the 74th iteration.
+In doing this work, Gehry collaborates with others to create models and digital simulations, and he constantly asks for candid judgments. This is not pro forma consultation. Gehry gives feedback serious consideration and adjusts his work accordingly. Then he seeks further feedback.
+It helps that Gehry seldom, if ever, speaks in high-flown theoretical terms, despite having studied art and architecture deeply. He is blunt. He expects the same in return. “Our communication is very basic and mostly visual, and there’s not a sophisticated language that we use,” says Craig Webb, a partner in Gehry’s firm. They look at models and say, “That’s good” or “That’s bad” or “I don’t like it.” Ideas that work are kept; those that don’t, go. The work takes priority over any bruised feelings.
+But it’s one thing to imagine, sketch, and model a skyscraper whose facade looks like billowing cloth. It’s quite another to design one that can be built. For the 8 Spruce Street project, there was a major additional constraint: The client had stipulated that the total cost had to be roughly comparable to a standard skyscraper.
+Gehry’s team spent two years thinking through and simulating every detail, in effect building the museum on computers before they built it in reality.
+Solving this puzzle would have been impossible without CATIA, a computer-modeling technology modified from software originally created to design aircraft by the French aerospace giant Dassault. Gehry recognized long before most that if computer modeling were pushed to extremes, it could revolutionize design and construction by allowing architects to engage in relentless iteration and testing of every imaginable form, including curves that had once been impossible to build reliably.
+The result would be digital models that precisely mimicked the future building, providing exquisitely detailed plans that could be used by everyone from manufacturers to builders to operators. Starting with the Golden Fish sculpture designed for the 1992 Olympic Games in Barcelona, digital models have been key to all of Gehry’s designs, long before anyone came up with the term “digital twin.”
+Central to Gehry’s vision for 8 Spruce Street was its billowing facade. To design it, Gehry and his team modeled it piece by piece, painstakingly examining the implications of every design choice for the exterior facade, the interior apartments, and the cost of manufacturing and installation. The steel manufacturer took the resulting plan and produced the pieces, which were brought to the construction site and assembled like an immense, vertical jigsaw puzzle.
+“If you were to do this [design work] by hand, you might get two or three tries within the allowable design period,” notes Tensho Takemori, an architect at Gehry’s firm. But thanks to digital simulation, “we had thousands….And because of that, we were…able to reduce the cost to almost the same as a flat curtain wall. The proof is there were no change orders, and that’s a pretty unheard-of result for a 76-story tower.”
+As open and fluid as Gehry’s process is, it is not formless. At various points, decisions are locked in. Work then proceeds on the next stages. The overall effect is to move smoothly from big ideas at the grand scale (What about a skyscraper twisted like licorice?) to increasingly fine-grained details (How do we design this window?). As a result, everything from the building’s relationship with its surroundings to the width of a windowsill has been subjected to severe scrutiny. It’s a long, exhausting process, but the resulting plan isn’t only unusually detailed. It is unusually reliable.
+The client is involved throughout. “It’s a discussion,” Gehry says. “That’s why the model-making thing is great, because they can see it as we develop it, and understand what I’m agonizing about.” Gehry is seldom perfectly happy with anything. “I’m very open about that,” he says, and he frankly shares what he likes and what he doesn’t. He wants the same candor from the client, and when he gets it, he listens intently and synthesizes the client’s thinking into his own. “They see they’re involved,” Gehry says. “They’re invited into my thinking process. So they can see stuff. And they can say, ‘Oh no, I would never do that.’ They can feel like part of it. They see the evolution. I find that very powerful.”
+At key stages, when the project must commit to design decisions before work advances, the client must give approval. In this way, the design is enriched and strengthened by the client’s perspective, while the meeting of minds that begins the project continues, iteration after iteration, following the maxim, “Try, learn, again.”
+Think Slow, Act Fast
+Gehry’s process asks much of everyone involved. It also consumes a great deal of time. For project proponents eager to have something to show for their efforts—and get to the finish line—extended planning can be frustrating, even unnerving. For them, planning is pushing paper, something to get over with. Only digging and building are progress. If you want to get things done, they think, get going.
+This sentiment is easy to understand. But it is wrong. When projects are launched without detailed and rigorous plans, issues are left unresolved that will resurface during delivery, causing delays, cost overruns, and breakdowns. A scramble for more time and more money follows, along with efforts to manage the inevitable bad press. With leaders distracted in this manner, the probability of further breakdowns—more scrambling, more delays, more cost overruns—grows. Eventually, a project that started at a sprint becomes a long slog through quicksand.
+A dramatic example of this dynamic is the tragic story of the Sydney Opera House and the young genius who designed it. Like Frank Gehry, Jørn Utzon was an architect of rare vision. To win the competition to design the project, he had submitted an entry that was little more than a few sketches—the art critic Robert Hughes called them “a magnificent doodle.” But because of political pressure to complete the project, construction began before Utzon could figure out exactly how to deliver on his sketches. Costs rose rapidly from the get-go. Completed work even had to be dynamited and cleared away to start again. In 1966, Utzon was pushed out and replaced, with his famous roof shells barely erected and no interior work done. When the Opera House finally opened, in 1973, it was acoustically unsuited for opera and flawed in many other ways. Scheduled at five years, the project had taken 14. The final bill was 15 times the budgeted amount, one of the biggest overruns in history.
+Subscribe to our Monthly Newsletter
+Strategy & Execution
+The tools you need to craft strategic plans in 2022 — and how to make them happen.
+Sign Up
+By contrast, the Guggenheim Bilbao, a building no less innovative and complex than the Sydney Opera House, took four years to build—exactly as forecast—because Gehry and his team had spent two years up front thinking through and simulating every detail, in effect building the museum on computers before they built it in reality.
+Gehry’s planning process may burn considerable time and feel slow, but overall his approach is much faster. And cheaper, because planning and delivery costs are wildly asymmetric: Spotting and correcting problems with the 8 Spruce Street facade by making thousands of iterations on a computer may not have been cheap in an absolute sense, but it cost a small fraction of what it would have to fix the same problems had they been discovered during installation. Relatively speaking, planning is cheap, delivery is expensive. And taking the time to think through the design means you can act much faster later.
+. . .
+Rules like those we describe here attempt to convey meaning that can never be entirely put into words. Gehry’s modest early projects and experiments with materials are worlds away from his masterpieces of modern architecture, yet, in a fundamental sense, he built the latter on the tacit knowledge garnered from building the former. Those who lack experience with following rules of this kind must keep that limitation in mind. The rules indicate directions of travel, but they are not road maps. To bring them fully to life, and to make decisions as adeptly as true experts like Frank Gehry, you must cultivate the underlying tacit knowledge the way Gehry did: by doing.
+Editor’s note: Bent Flyvbjerg and Dan Gardner are the coauthors of How Big Things Get Done (Random House, 2023), from which this article was adapted.
+A version of this article appeared in the January–February 2023 issue of Harvard Business Review.
+Read more on Project management or related topics Leadership, Creativity and Innovation
+                  * Bent Flyvbjerg is the BT Professor and Chair of Major Programme Management Emeritus at the University of Oxford’s Saïd Business School and the Villum Kann Rasmussen Professor and Chair at the IT University of Copenhagen.
+                  * DG
+                  * Dan Gardner is the author or coauthor of three books, including Superforecasting, with Philip E. Tetlock.
