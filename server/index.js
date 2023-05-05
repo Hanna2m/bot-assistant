@@ -15,14 +15,14 @@ const openai = new OpenAIApi(configuration);
 
 const app = express()
 const __dirname = path.dirname("")
-const buildPath = path.join(__dirname, "../client/build")
+const buildPath = path.join(__dirname, "../client/")
 app.use(express.static(buildPath))
 app.use(cors())
 app.use(express.json())
 
 app.get('/', async (req, res) => {
   res.sendFile(
-    path.join(__dirname, "../client/build/index.html"),
+    path.join(__dirname, "../client/index.html"),
     function(err) {
       if(err) {
         res.status(500).send(err)
