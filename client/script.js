@@ -1,6 +1,6 @@
 import bot from './assets/photo.png'
 import user from './assets/user.svg'
-import axios from './node_modules/axios'
+import axios from 'axios'
 
 const form = document.querySelector('form')
 const chatContainer = document.querySelector('#chat_container')
