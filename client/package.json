@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "vite",
     "start-client": "vite",
-    "build": "vite build && (cd ../server && npm install)",
-    "postinstall": "npm install",
+    "build": "vite build && (npm install && cd ../server )",
     "preview": "vite preview"
   },
   "devDependencies": {
