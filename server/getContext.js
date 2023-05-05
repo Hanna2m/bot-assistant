@@ -27,9 +27,9 @@ async function createEmbeddings(text) {
 }
 
 // Path to the file containing the text data
-const documentPath = 'personal_content.txt';
-const text = readFileSync(documentPath, 'utf-8')
-const paragraphs = text.split('\n').map(paragraph => paragraph.trim()).filter(Boolean);
+// const documentPath = 'personal_content.txt';
+// const text = readFileSync(documentPath, 'utf-8')
+// const paragraphs = text.split('\n').map(paragraph => paragraph.trim()).filter(Boolean);
 
 
 // const paragraphEmbeddings = await openai.createEmbedding({
