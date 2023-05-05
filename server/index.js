@@ -18,9 +18,14 @@ app.use(cors())
 app.use(express.json())
 
 app.get('/', async (req, res) => {
-  res.status(200).send({
-    message: 'Hello from assistant'
-  })
+  res.sendFile(
+    path.join(__dirname, "../client/build/index.html"),
+    function(err) {
+      if(err) {
+        res.status(500).send(err)
+      }
+    }
+  )
 })
 app.post('/', async (req, res) => {
   try {
@@ -51,4 +56,5 @@ app.post('/', async (req, res) => {
   }
 })
 
-app.listen(5000, () => console.log('Server is running on port http://localhost:5000'))
+const PORT = process.env.PORT || 5000
+app.listen(PORT, () => console.log(`Server is running on port ${PORT}`))

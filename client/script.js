@@ -66,12 +66,6 @@ const handleSubmit = async(e) => {
 
   const container = document.getElementById('profile')
   container.style.display = 'none'
-  // const containerClass = container.classList
-  // console.log(containerClass)
-  // if ( container.className === 'show') {
-  //   containerClass.replace('show', 'hidden')
-  //   console.log(container.className)
-  // }
 
   const data = new FormData(form)
   //user's chatStrip
