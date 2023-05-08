@@ -2,7 +2,6 @@ import express from 'express';
 import * as dotenv from 'dotenv'
 import cors from 'cors'
 import { Configuration, OpenAIApi } from 'openai';
-import path from 'path'
 import context from './getContext.js';
 
 dotenv.config()
@@ -14,22 +13,15 @@ const configuration = new Configuration({
 const openai = new OpenAIApi(configuration);
 
 const app = express()
-const __dirname = path.dirname("")
-const buildPath = path.join(__dirname, "../client/")
-app.use(express.static(buildPath))
 app.use(cors())
 app.use(express.json())
 
 app.get('/', async (req, res) => {
-  res.sendFile(
-    path.join(__dirname, "../client/index.html"),
-    function(err) {
-      if(err) {
-        res.status(500).send(err)
-      }
-    }
-  )
+  res.status(200).send({
+    message: 'Hello from bot-assistant'
+  })
 })
+
 app.post('/', async (req, res) => {
   try {
     const question = req.body.prompt
