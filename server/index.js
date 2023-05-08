@@ -15,7 +15,7 @@ const openai = new OpenAIApi(configuration);
 
 const app = express()
 const __dirname = path.dirname("")
-const buildPath = path.join(__dirname, "../client/dist")
+const buildPath = path.join(__dirname, "../client/")
 app.use(express.static(buildPath))
 app.use(cors())
 app.use(express.json())

@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "cd server && nodemon index.js",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client"
+    "start": "cd server && nodemon index.js"
   },
   "dependencies": {
     "@pinecone-database/pinecone": "^0.0.14",
@@ -18,8 +17,7 @@
     "natural": "^6.2.0",
     "nodemon": "^2.0.22",
     "openai": "^3.2.1",
-    "path": "^0.12.7",
-    "axios": "^1.4.0"
+    "path": "^0.12.7"
   },
   "keywords": [],
   "author": "",
