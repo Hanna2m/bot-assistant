@@ -2,6 +2,7 @@ import bot from './assets/photo.png'
 import user from './assets/user.svg'
 import axios from 'axios'
 
+const SERVER_URL = 'https://bot-assistant.onrender.com'
 const form = document.querySelector('form')
 const chatContainer = document.querySelector('#chat_container')
 
@@ -83,7 +84,7 @@ const handleSubmit = async(e) => {
   loader(messageDiv)
 
   //fetch data from server -> bot's response
-  const response = await axios.post('http://localhost:5000/', {
+  const response = await axios.post(SERVER_URL, {
     prompt: data.get('prompt')
   })
   .then((res) => {
