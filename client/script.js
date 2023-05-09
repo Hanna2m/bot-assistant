@@ -3,6 +3,7 @@ import user from './assets/user.svg'
 import axios from 'axios'
 
 const SERVER_URL = 'https://bot-assistant.onrender.com'
+// const SERVER_URL = 'http://localhost:5000'
 const form = document.querySelector('form')
 const chatContainer = document.querySelector('#chat_container')
 
@@ -98,7 +99,7 @@ const handleSubmit = async(e) => {
   clearInterval(loadInterval)
   messageDiv.innerHTML = ''
   console.log(response)
-  if (response.statusText === 'OK') {
+  if (response.status === 200) {
     const data = await response.data
     const parsedData = data.bot.trim()
     console.log(parsedData)
