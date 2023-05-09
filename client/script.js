@@ -16,7 +16,6 @@ function loader(element) {
     element.textContent += '.'
 
     if (element.textContent == '....') {
-      console.log(element.textContent)
       element.textContent = ''
     }
   }, 300)
@@ -44,7 +43,6 @@ function generateUniqueId() {
 }
 
 function chatStripe (isAi, value, uniqueId) {
-  console.log(isAi, value, uniqueId)
   return(
     `
     <div class='wrapper ${isAi && 'ai'}'>
@@ -76,12 +74,10 @@ const handleSubmit = async(e) => {
 
   //bot's chatStrip
   const uniqueId = generateUniqueId();
-  console.log(chatStripe(true, '', uniqueId))
   chatContainer.innerHTML += chatStripe(true, '', uniqueId);
   chatContainer.scrollTop = chatContainer.scrollHeight
 
   const messageDiv = document.getElementById(uniqueId)
-  console.log(messageDiv)
   loader(messageDiv)
 
   //fetch data from server -> bot's response
@@ -98,11 +94,9 @@ const handleSubmit = async(e) => {
 
   clearInterval(loadInterval)
   messageDiv.innerHTML = ''
-  console.log(response)
   if (response.status === 200) {
     const data = await response.data
     const parsedData = data.bot.trim()
-    console.log(parsedData)
     typeText(messageDiv, parsedData)
   } else {
     const error = await response
