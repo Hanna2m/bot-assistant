@@ -26,33 +26,27 @@ async function createEmbeddings(text) {
   return embeddings.arraySync()[0]
 }
 
-// Path to the file containing the text data
+// Create embeddings from the file:
 // const documentPath = 'personal_content.txt';
 // const text = readFileSync(documentPath, 'utf-8')
 // const paragraphs = text.split('\n').map(paragraph => paragraph.trim()).filter(Boolean);
 
+async function saveEmbeddingsToJSON(paragraphs, filename) {
+  const json = {};
+  const paragraphEmbeddings = await openai.createEmbedding({
+    model: EMBED_MODEL,
+    input: paragraphs
+  })
+  .then(res => {
+    return res.data.data[0].embedding
+  })
 
-// const paragraphEmbeddings = await openai.createEmbedding({
-//   model: EMBED_MODEL,
-//   input: paragraphs
-// })
-
-// async function saveEmbeddingsToJSON(paragraphs, filename) {
-//   const json = {};
-//   const paragraphEmbeddings = await openai.createEmbedding({
-//     model: EMBED_MODEL,
-//     input: paragraphs
-//   })
-//   .then(res => {
-//     return res.data.data[0].embedding
-//   })
-
-//   for (let i = 0; i < paragraphs.length; i++) {
-//     json[paragraphs[i]] = paragraphEmbeddings[i];
-//   }
-//   const jsonString = JSON.stringify(json);
-//   writeFileSync(filename, jsonString);
-// }
+  for (let i = 0; i < paragraphs.length; i++) {
+    json[paragraphs[i]] = paragraphEmbeddings[i];
+  }
+  const jsonString = JSON.stringify(json);
+  writeFileSync(filename, jsonString);
+}
 
 const filename = './embeddings.json';
 // saveEmbeddingsToJSON(paragraphs, filename)
@@ -80,9 +74,10 @@ const context = async (query) => {
     return documentSimilarities.sort(([similarity1], [similarity2]) => similarity2 - similarity1);
   }
 
+  // Using openai model
   // const queryEmbeddings = await createEmbeddings(query)
 
-  // Using openai api model
+  // Using openai openapi model
     const queryEmbeddings = await openai.createEmbedding({
       model: EMBED_MODEL,
       input: query
@@ -107,7 +102,7 @@ const context = async (query) => {
     selectedContext = chosenSections.join(' ')
   }
   const constructPrompt = (question, context) => {
-    const header = `Answer the question as truthfully as possible, and if you're unsure of the answer, say "Sorry, I don't know. I can only construct a response based on text contained in Sasha’s knowledge base and I can't find an answer.".`
+    const header = `Answer the question as truthfully as possible, and if you're unsure of the answer, say "Sorry, I don't know. I can only construct a response based on text contained in Sasha’s knowledge base and I can't find an answer.".\n\nContext:\n`
     const promptText = header + context + "\n\n Q: " + question + "\n A:"
     const prompt = context
     return promptText

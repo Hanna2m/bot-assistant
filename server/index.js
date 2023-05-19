@@ -26,8 +26,6 @@ app.post('/', async (req, res) => {
   try {
     const question = req.body.prompt
     const prompt = await context(question)
-    // const queryContext = await context(question)
-    // const prompt = `${question}\n${queryContext}`
       console.log(`Prompt: ${prompt}`)
       if (prompt) {
         const response = await openai.createCompletion({
