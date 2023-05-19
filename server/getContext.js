@@ -74,10 +74,10 @@ const context = async (query) => {
     return documentSimilarities.sort(([similarity1], [similarity2]) => similarity2 - similarity1);
   }
 
-  // Using openai model
+  // Using model
   // const queryEmbeddings = await createEmbeddings(query)
 
-  // Using openai openapi model
+  // Using openai model
     const queryEmbeddings = await openai.createEmbedding({
       model: EMBED_MODEL,
       input: query
